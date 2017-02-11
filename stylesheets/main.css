@@ -511,3 +511,68 @@ a.read-more {
   padding-top: 20px;
   padding-bottom: 10px;
 }
+
+.share_button {
+  width: 20%;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  color: #FFFFFF;
+  text-align: center;
+  border-radius: 3px;
+  position: relative;
+  color: #FFFFFF!important;
+  transition: all .2s linear;
+  text-shadow: 0 0 3px rgba(0,0,0,.25);
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.2) inset, 0 0 0 1px rgba(0,0,0,0.2) inset;
+}
+
+.left, .lefti {
+    float: left!important;
+}
+
+.share_button.mr15 {
+    margin-right: 5%!important;
+}
+
+.share_button.share-facebook {
+    background-color: #335795;
+}
+
+.share_button.share-facebook:after {
+    content: "\f09a";
+    color: #6276A7;
+    color: rgba(255,255,255,.2);
+}
+
+.share_button.share-twitter {
+    background-color: #00ACED;
+}
+
+.share_button.share-twitter:after {
+    content: "\f099";
+    color: #6ABFE6;
+    color: rgba(255,255,255,.2);
+}
+
+.share_button.share-google {
+    background-color: #DD4B39;
+}
+
+.share_button.share-google:after {
+    content: "\f0d5";
+    color: #ED6C5D;
+    color: rgba(255,255,255,.2);
+}
+
+.share_button.share-twitter:after, .share_button.share-facebook:after, .share_button.share-google:after {
+    font-family: "FontAwesome";
+    display: block;
+    top: 1px;
+    left: 15px;
+    position: absolute;
+    font-size: 38px;
+    font-weight: normal;
+    z-index: 1;
+    text-shadow: none;
+}
