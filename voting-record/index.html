@@ -4,27 +4,32 @@ title: Voting Record
 ---
 
 <div style="overflow-x:auto;">
-  <table>
+  <table class="voting-record">
     <tr>
-      <th>Bill</th>
-      <th>Trump Position</th>
-      <th>Comstock Vote</th>
-      <th>Date</th>
+      <th class="bill">Bill</th>
+      <th class="trump-position">Trump Position</th>
+      <th class="comstock-position">Comstock Vote</th>
+      <th class="date">Date</th>
     </tr>
     {% for vote in site.data.votes %}
+      {% if vote.comstock_vote == "Yes" and vote.trump_position == "Supports" %}
+        {% assign styles = "aligned" %}
+      {% endif %}
       <tr>
-        <td>
+        <td class="bill">
           <a href="{{ vote.bill_url }}">
             {{ vote.bill }}
           </a>
         </td>
-        <td>
+        <td class="trump-position">
           {{ vote.trump_position }}
         </td>
-        <td>
-          {{ vote.comstock_vote }}
+        <td class="comstock-position">
+          <div class="{{styles}}">
+            {{ vote.comstock_vote }}
+          </div>
         </td>
-        <td>{{vote.date}}</td>
+        <td class="date">{{vote.date}}</td>
       </tr>
     {% endfor %}
   </table>
