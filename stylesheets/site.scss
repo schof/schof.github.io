@@ -2,12 +2,45 @@
 ---
 
 .voting-record {
+  font-size: 14px;
+
   td, th {
     padding: 8px;
   }
 
-  .comstock-position.aligned {
-    background-color: green;
+  th {
+    text-transform: uppercase;
+  }
+  .trump-position, .comstock-position, .date {
+    text-align: center;
+  }
+
+  .bill {
+    border-right: 1px solid #999;
+  }
+
+  td {
+    border-top: 2px solid #f0f0f0;
+    div {
+      margin: 0 auto;
+    }
+  }
+
+  .trump-position, .comstock-position {
+    min-width: 140px;
+  }
+  .date {
+    min-width: 80px;
+  }
+
+  .comstock-position .aligned, .trump-position.supports div {
+    width: 80px;
+    text-align: center;
+    background-color: rgb(68, 171, 67);
+    border-radius: 8px;
+    border: 1px solid #CCC;
+    padding: 6px;
+    font-weight: bold;
   }
 
   a {

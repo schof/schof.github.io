@@ -15,21 +15,27 @@ title: Voting Record
       {% if vote.comstock_vote == "Yes" and vote.trump_position == "Supports" %}
         {% assign styles = "aligned" %}
       {% endif %}
-      <tr>
+      <tr class="vote">
         <td class="bill">
           <a href="{{ vote.bill_url }}">
             {{ vote.bill }}
           </a>
         </td>
-        <td class="trump-position">
-          {{ vote.trump_position }}
+        <td class="trump-position {{ vote.trump_position | strip | downcase }}">
+          <div>
+            {{ vote.trump_position }}
+          </div>
         </td>
-        <td class="comstock-position">
+        <td class="comstock-position {{ vote.comstock_vote | strip | downcase }}">
           <div class="{{styles}}">
             {{ vote.comstock_vote }}
           </div>
         </td>
-        <td class="date">{{vote.date}}</td>
+        <td class="date">
+          <div>
+            {{vote.date}}
+          </div>
+        </td>
       </tr>
     {% endfor %}
   </table>
