@@ -3,7 +3,7 @@ layout: news_post
 title: "Comstock Hiding Behind Wooden Flags"
 date: 2017-02-11 00:00:00 +0000
 description: "Comstock is hiding from the voters as well as her record on veterans"
-snippet: "Comstock's Facebook post gives the impression that she is a champion of veterans. When it comes to bucking her party leadership, however, she always choses Paul Ryan over the troops."
+snippet: "Comstock's Facebook post gives the impression that she is a champion of veterans. When it comes to bucking her party leadership, however, she always choses Paul Ryan over the troops every time."
 image: 'wooden-flags.jpg'
 ---
 While Trump's Deportation Force was rounding up undocumented immigrants, some of whom had [no criminal record](https://www.washingtonpost.com/national/federal-agents-conduct-sweeping-immigration-enforcement-raids-in-at-least-6-states/2017/02/10/4b9f443a-efc8-11e6-b4ff-ac2cf509efe5_story.html), Barbara Comstock was off touring a wooden flag store for yet another photo opportunity. This despite the fact that some of the people caught up in the mass arrests were living next store in the [VA-11](http://www.wusa9.com/news/local/ice-arrests-alleged-criminal-aliens-in-northern-virginia/406936295). We assume she'll be issuing a strongly worded press release on that soon.
