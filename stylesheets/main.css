@@ -335,10 +335,10 @@ div.post h3 a:hover { text-decoration: underline; }
 #header_content > a {
   text-decoration: none;
   color: black;
-  background: url(/images/dump-comstock-logo-no-text.png) no-repeat left 8px;
+  background: url(/images/dump-comstock-logo.png) no-repeat left 8px;
   display: inline-block;
-  padding: 8px 0 0 84px;
-  margin: 0 0px 15px -4px;
+  padding: 18px 0 0 84px;
+  margin: 0 0 15px -4px;
 }
 
 #header div.site-links {
