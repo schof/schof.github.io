@@ -2,12 +2,15 @@
 ---
 
 .voting-record {
+  $support-color: rgb(68, 171, 67);
+  $oppose-color: #ff3d3d;
+
   font-size: 14px;
+  a { text-decoration: none; }
 
   td, th {
     padding: 8px;
   }
-
   th {
     text-transform: uppercase;
   }
@@ -33,17 +36,30 @@
     min-width: 80px;
   }
 
-  .comstock-position .aligned, .trump-position.supports div {
-    width: 80px;
-    text-align: center;
-    background-color: rgb(68, 171, 67);
-    border-radius: 8px;
-    border: 1px solid #CCC;
-    padding: 6px;
-    font-weight: bold;
+  .comstock-position, .trump-position {
+    div {
+      width: 80px;
+      text-align: center;
+      border-radius: 8px;
+      border: 1px solid #CCC;
+      padding: 6px;
+      font-weight: bold;
+    }
+  }
+  .comstock-position.yes, .trump-position.supports {
+    div {
+      background-color: $support-color;
+    }
+  }
+  .comstock-position.no,
+  .trump-position.against,
+  .trump-position.opposed,
+  .trump-position.opposes {
+    div {
+      background-color: $oppose-color;
+    }
   }
 
-  a {
-    text-decoration: none;
-  }
+
+
 }

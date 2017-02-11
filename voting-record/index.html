@@ -12,9 +12,6 @@ title: Voting Record
       <th class="date">Date</th>
     </tr>
     {% for vote in site.data.votes %}
-      {% if vote.comstock_vote == "Yes" and vote.trump_position == "Supports" %}
-        {% assign styles = "aligned" %}
-      {% endif %}
       <tr class="vote">
         <td class="bill">
           <a href="{{ vote.bill_url }}">
@@ -23,12 +20,16 @@ title: Voting Record
         </td>
         <td class="trump-position {{ vote.trump_position | strip | downcase }}">
           <div>
-            {{ vote.trump_position }}
+            <a href="{{ vote.trump_url }}">
+              {{ vote.trump_position }}
+            </a>
           </div>
         </td>
         <td class="comstock-position {{ vote.comstock_vote | strip | downcase }}">
           <div class="{{styles}}">
-            {{ vote.comstock_vote }}
+            <a href="{{ vote.comstock_url }}">
+              {{ vote.comstock_vote }}
+            </a>
           </div>
         </td>
         <td class="date">
