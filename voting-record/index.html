@@ -4,27 +4,39 @@ title: Voting Record
 ---
 
 <div style="overflow-x:auto;">
-  <table>
+  <table class="voting-record">
     <tr>
-      <th>Bill</th>
-      <th>Trump Position</th>
-      <th>Comstock Vote</th>
-      <th>Date</th>
+      <th class="bill">Bill</th>
+      <th class="trump-position">Trump Position</th>
+      <th class="comstock-position">Comstock Vote</th>
+      <th class="date">Date</th>
     </tr>
     {% for vote in site.data.votes %}
-      <tr>
-        <td>
+      <tr class="vote">
+        <td class="bill">
           <a href="{{ vote.bill_url }}">
             {{ vote.bill }}
           </a>
         </td>
-        <td>
-          {{ vote.trump_position }}
+        <td class="trump-position {{ vote.trump_position | strip | downcase }}">
+          <a href="{{ vote.trump_url }}">
+            <div>
+              {{ vote.trump_position }}
+            </div>
+          </a>
         </td>
-        <td>
-          {{ vote.comstock_vote }}
+        <td class="comstock-position {{ vote.comstock_vote | strip | downcase }}">
+          <a href="{{ vote.comstock_url }}">
+            <div class="{{styles}}">
+              {{ vote.comstock_vote }}
+            </div>
+          </a>
         </td>
-        <td>{{vote.date}}</td>
+        <td class="date">
+          <div>
+            {{vote.date}}
+          </div>
+        </td>
       </tr>
     {% endfor %}
   </table>
