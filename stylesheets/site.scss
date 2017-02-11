@@ -70,5 +70,19 @@
     }
   }
 
+  @media screen and (max-width: 480px) {
+    td, th {
+      padding: 4px;
+    }
+    .date { display: none; }
+    .trump-position, .comstock-position, .date {
+      min-width: auto;
+    }
+    .comstock-position, .trump-position {
+      div {
+        padding: 6px;
+      }
+    }
+  }
 
 }
