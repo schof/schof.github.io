@@ -19,18 +19,18 @@ title: Voting Record
           </a>
         </td>
         <td class="trump-position {{ vote.trump_position | strip | downcase }}">
-          <div>
-            <a href="{{ vote.trump_url }}">
+          <a href="{{ vote.trump_url }}">
+            <div>
               {{ vote.trump_position }}
-            </a>
-          </div>
+            </div>
+          </a>
         </td>
         <td class="comstock-position {{ vote.comstock_vote | strip | downcase }}">
-          <div class="{{styles}}">
-            <a href="{{ vote.comstock_url }}">
+          <a href="{{ vote.comstock_url }}">
+            <div class="{{styles}}">
               {{ vote.comstock_vote }}
-            </a>
-          </div>
+            </div>
+          </a>
         </td>
         <td class="date">
           <div>

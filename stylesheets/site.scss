@@ -14,6 +14,10 @@
   th {
     text-transform: uppercase;
   }
+
+  a div {
+    color: black;
+  }
   .trump-position, .comstock-position, .date {
     text-align: center;
   }
@@ -49,6 +53,9 @@
   .comstock-position.yes, .trump-position.supports {
     div {
       background-color: $support-color;
+      &:hover {
+        background-color: lighten($support-color, 20%);
+      }
     }
   }
   .comstock-position.no,
@@ -57,9 +64,11 @@
   .trump-position.opposes {
     div {
       background-color: $oppose-color;
+      &:hover {
+        background-color: lighten($oppose-color, 20%);
+      }
     }
   }
-
 
 
 }
