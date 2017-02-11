@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    {% if page.title != null %}
+    <title>{{ page.title }} | Dump Comstock</title>
+    {% else %}
+    <title>Dump Comstock</title>
+    {% endif %}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+
+    {% if page.image %}
+      <meta name="twitter:image" content="{{site.url}}/images/news/{{page.image}}"/>
+      <meta property='og:image' content='{{site.url}}/images/news/{{page.image}}'/>
+    {% else %}
+      <meta name="twitter:image" content="{{site.url}}/images/dumpcomstock-logo-preview.png"/>
+      <meta property='og:image' content='{{site.url}}/images/dumpcomstock-logo-preview.png'/>
+      <!-- no facebook meta -->
+    {% endif %}
+
+    {% if page.title %}
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="twitter:site" content="@dumpcomstock"/>
+      <meta name="twitter:title" content="{{page.title}}"/>
+      <meta name="twitter:description" content="{{page.snippet}}"/>
+      <meta property='og:title' content="{{page.title}}"/>
+      <meta property='og:description' content="{{page.snippet}}"/>
+      <meta property='og:type' content='article'/>
+      <meta property='og:url' content="{{ site.url }}{{ page.url | replace: 'index.html', '' }}"/>
+      <meta property='fb:app_id' content='1857793184477645'/>
+    {% else %}
+      <meta property='og:description' content="Dedicated to removing Barbara Comstock from political office on November 6, 2018."/>
+      <!-- no facebook meta -->
+    {% endif %}
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/normalize.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/main.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/pygments.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/mobile.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/print.css">
+    <link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic&amp;subset=latin,cyrillic,greek,vietnamese' rel='stylesheet' type='text/css'>
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace: 'index.html', '' }}">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+    <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/javascripts/page.js"></script>
+    {% if layout.javascript != null %}
+    {% for javascript in layout.javascript %}
+    <script type="text/javascript" src="/javascripts/{{ javascript }}.js"></script>
+    {% endfor %}
+    {% endif %}
+  </head>
+
+  <body{% if page.url == '/' %} id="home-page-layout"{% endif %}>
+    <div id="header">
+      <div id="header_content" class="container">
+        <a href="/">
+          <h1>Dump Comstock</h1>
+          <h2>It's not us. It's her.</h2>
+        </a>
+
+        <div class="site-links">
+          <a href="/" class="home">Home</a>
+          {% include sitelinks.html %}
+          <a href="#" class="menu selected">Menu</a>
+        </div>
+      </div>
+    </div>
+
+    <div id="page">
+      {% include intro.html %}
+
+      <div id="main-wrapper" class="container">
+        <div id="main">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>

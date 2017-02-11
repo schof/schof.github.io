@@ -1,0 +1,44 @@
+---
+layout: voting
+title: Voting Record
+---
+
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>Bill</th>
+      <th>Trump Position</th>
+      <th>Comstock Vote</th>
+      <th>Date</th>
+    </tr>
+    {% for vote in site.data.votes %}
+      <tr>
+        <td>
+          <a href="{{ vote.bill_url }}">
+            {{ vote.bill }}
+          </a>
+        </td>
+        <td>
+          {{ vote.trump_position }}
+        </td>
+        <td>
+          {{ vote.comstock_vote }}
+        </td>
+        <td>{{vote.date}}</td>
+      </tr>
+    {% endfor %}
+  </table>
+</div>
+
+<!-- <br/>
+<br/>
+
+{% for vote in site.data.votes %}
+  <div class="vote">
+    <a class="bill-title" href="{{ vote.bill_url }}" target="_blank">{{ vote.bill }}</a>
+    <a class="trump-position support" target="_blank">{{ vote.trump_position }}</a>
+    <span class='trump-position'>{{ vote.trump_position }}<span>
+    <span class='comstock-vote'>{{ vote.comstock_vote }}</span>
+    <span class="date">Feb. 8</span>
+  </div>
+{% endfor %} -->

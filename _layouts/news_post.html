@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div id="content-wrapper">
+  {% include title.html %}
+  <div id="content">
+    <p class="post-info">{{ page.date | date_to_string }}</p>
+
+    <p><img class='news' src='{{site.url}}/images/news/{{page.image}}' alt='{{page.title}}'/></p>
+    {{ content }}
+  </div>
+</div>
+<hr class="hidden-modern" />
+
+<div id="sidebar-wrapper">
+  <div id="sidebar">
+    {% include sidebar.html %}
+  </div>
+</div>
+<hr class="hidden-modern" />

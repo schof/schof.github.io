@@ -1,0 +1,9 @@
+<div class="post">
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p class="post-info">{{ post.date | date_to_string}}</p>
+  <img class='news' src='{{ site.url }}/images/news/{{post.image}}' alt='{{post.title}}'/>
+  <p>
+    {%if post.snippet %}{{ post.snippet | markdownify }}{% endif %}
+    <a class='read-more' href="{{ post.url }}">Read More</a>
+  </p>
+</div>

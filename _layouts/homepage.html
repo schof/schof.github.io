@@ -1,0 +1,9 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% for post in site.posts limit:3 %}
+  {% include news_preview.html %}
+{% endfor %}

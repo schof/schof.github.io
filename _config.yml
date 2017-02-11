@@ -1,0 +1,56 @@
+markdown: kramdown
+permalink: /:slug/
+highlighter: rouge
+
+timezone: UTC
+
+kramdown:
+  auto_ids: true # Auto-generate ID's for headings
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - Rakefile
+  - README.md
+  - unicorn.rb
+  - vendor
+
+url: https://dumpcomstock.com
+
+gems:
+  - jekyll-redirect-from
+
+locales:
+  sitelinks:
+    en:
+      - text: Meet Comstock
+        url:  /meet-comstock
+      - text: News
+        url:  /news
+      - text: Voting Record
+        url:  /voting-record
+      - text: Get Involved
+        url:  /get-involved
+      - text: FAQ
+        url:  /faq
+
+  news:
+    en:
+      other_news: Other News
+      more_news: More News...
+      continue: Continue Reading...
+      back_to_year: "Back to %Y Archives"
+      recent_news: Recent News
+      yearly_archive_title: "%Y Archives"
+      monthly_archive_title: "%B %Y Archives"
+      yearly_archives: Archives by Year
+      monthly_archives: Archives by Month
+      yearly_archive_link: "%Y Archives"
+      monthly_archive_link: "%B %Y"
+
+  month_names:
+    en: [January, February, March, April, May, June, July, August, September, October, November, December]
