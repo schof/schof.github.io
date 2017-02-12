@@ -225,6 +225,7 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.0)
   jekyll-redirect-from
+  jekyll-sitemap
   lanyon (~> 0.4.0)
   rack-protection
   rack-rewrite

@@ -23,6 +23,7 @@ url: https://dumpcomstock.com
 
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 locales:
   sitelinks:
