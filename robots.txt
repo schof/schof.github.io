@@ -1,4 +1,2 @@
 User-agent: *
 Sitemap: https://dumpcomstock.com/sitemap.xml
-
-disallow: /news/*
