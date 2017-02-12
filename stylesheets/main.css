@@ -576,3 +576,40 @@ a.read-more {
     z-index: 1;
     text-shadow: none;
 }
+
+div#promotion {
+  background-color: #fcc9f0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#promotion p {
+  /*padding-left: 20px;
+  padding-right: 20px;*/
+}
+
+#promotion h3 {
+  color: black;
+  font-weight: bold;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+#promotion a {
+  background: #CC342D;
+  background-size: 30px 25px;
+  color: #ffffff;
+  padding: 8px 20px 8px 20px;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+  margin: 0 3px 0 0;
+  text-shadow: none;
+  border: 2px solid #9b1c16;
+  display: inline-block;
+  border-radius: 6px;
+  box-shadow: 0 2px 0 #9b1c16;
+}
