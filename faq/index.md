@@ -86,3 +86,11 @@ We'll be upgrading our website soon so that people can use it to find all of the
 ## What type of organization is Dump Comstock?
 
 Right now it's just an unofficial group of volunteers working together for a common cause. We are currently exploring various options to transform ourselves officially into a non-profit, PAC, etc.
+
+## Are you part of the Indivisible Organization?
+
+No. There are plenty of chapters in your local area if you're interested - feel free to join one if you live in the VA-10. We are focused exclusively on replacing Comstock in the VA-10 seat but obviously there is a lot of overlap with us and the Indivisible people. We welcome anyone who wants to join our group and many of our members belong to both. See the [Indivisible Guide](https://www.indivisibleguide.com/) to learn more.
+
+## Why are you not promoting the Indivisible events here?
+
+Those events are being managed by the Indivisible teams. Most (but not all) of our members live in the VA-10 and since many of their events involve contacting Barbara Comstock's office directly we feel we should leave the organization of those events up to them. Dump Comstock members who live in the VA-10 are more than welcome to attend these events and of course we'll be covering them on our website and in social media.
