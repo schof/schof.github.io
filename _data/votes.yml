@@ -7,17 +7,89 @@
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/85
 
 - date: Feb. 7
-  bill: Repeal of a Department of Education rule on teacher preparation programs
-  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/58
+  bill: Repeal of a Department of Education rule on school accountability
+  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/57
   trump_position: "Supports"
-  trump_url: https://www.whitehouse.gov/the-press-office/2017/02/07/hjr-58-disapproving-rule-submitted-department-education-relating-teacher
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/02/07/hjr-57-disapproving-rule-submitted-department-education-relating
   comstock_vote: "Yes"
-  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/85
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/84
 
 - date: Feb. 7
-  bill: Repeal of a Department of Education rule on teacher preparation programs
-  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/58
+  bill: Repeal of changes to Bureau of Land Management planning rules
+  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/44
   trump_position: "Supports"
-  trump_url: https://www.whitehouse.gov/the-press-office/2017/02/07/hjr-58-disapproving-rule-submitted-department-education-relating-teacher
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/02/07/hjr-44-disapproving-rule-submitted-department-interior-relating-bureau
   comstock_vote: "Yes"
-  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/85
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/83
+
+- date: Feb. 3
+  bill: Repeal of a rule requiring energy companies to reduce waste and emissions
+  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/36
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/02/01/statement-administration-policy
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/78
+
+- date: Feb. 2
+  bill: Repeal of a rule requiring the Social Security Administration to submit information to the national background-check system
+  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/40
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/02/01/statement-administration-policy
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/77
+
+- date: Feb. 2
+  bill: Repeal of a rule requiring some federal contractors to report labor violations
+  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/37
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/02/01/statement-administration-policy
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/76
+
+- date: Feb. 2
+  bill: Repeal of the stream protection rule
+  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/38
+  trump_position: "Supports"
+  trump_url: http://thehill.com/policy/energy-environment/310988-obama-issues-mining-rule-despite-trumps-threat-to-repeal-it
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/73
+
+- date: Feb. 1
+  bill: Repeal of a rule requiring energy companies to disclose payments to foreign governments
+  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/41
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/02/01/statement-administration-policy
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/senate/1/51
+
+- date: Jan. 24
+  bill: Permanent ban on the use of federal funds for abortion or health coverage that includes abortions
+  bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/38
+  trump_position: "Supports"
+  trump_url: http://www.motherjones.com/politics/2017/01/house-representatives-trump-hyde-amendment
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/65
+
+- date: Jan. 13
+  bill: Waiver allowing James Mattis to become secretary of defense
+  bill_url: https://www.congress.gov/bill/115th/senate-bill/84
+  trump_position: "Supports"
+  trump_url: http://www.politico.com/story/2016/12/james-mattis-confirmation-democrats-232116
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/59
+
+- date: Jan. 13
+  bill: Budget resolution to repeal the Affordable Care Act
+  bill_url: https://www.congress.gov/bill/115th/senate-concurrent-resolution/3
+  trump_position: "Supports"
+  trump_url: https://twitter.com/realDonaldTrump/status/819600124133474307
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/58
+
+- date: Jan. 5
+  bill: Regulations from the Executive in Need of Scrutiny Act of 2017
+  bill_url: https://www.congress.gov/bill/115th/house-bill/26
+  trump_position: "Supports"
+  trump_url: http://www.usatoday.com/story/opinion/2016/12/30/s-time-rein-regulators/96001658/
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/23
