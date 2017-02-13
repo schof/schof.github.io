@@ -4,7 +4,7 @@ title: "The Race Begins"
 date: 2017-02-13 00:00:00 +0000
 description: "The race for VA-10 starts now - time to recruit a candidate"
 snippet: "The race for VA-10 has already started and Comstock is vulnerable and running scared. It\'s time to recruit a candidate."
-image: election-day-2018.png
+image: dump-comstock-logo.png
 ---
 November 6, 2018. That's the day that the voters of the VA-10 will vote Barbara Comstock out of office. The only question is, who will it be that takes her place? Right now we don't know - nobody does.
 
