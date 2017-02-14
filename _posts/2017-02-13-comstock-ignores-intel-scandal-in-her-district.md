@@ -1,7 +1,7 @@
 ---
 layout: news_post
 title: "Comstock Silent while Trump Undermines National Security"
-date: 2017-02-13 00:00:00 +0000
+date: 2017-02-14 00:00:00 +0000
 description: "Comstock stays silent even though the CIA is located in her district"
 snippet: "You won’t get an unambiguous statement from Barbara Comstock though - despite the fact that the CIA is located within her district. Not surprising since she also said nothing while Trump disgraced himself during his visit to Comstock's district last month."
 image: flynn-scandal.jpeg
@@ -24,4 +24,6 @@ You won't get an unambiguous statement from Barbara Comstock though - despite th
 
 It's time for Barbara Comstock to stand up for the intelligence professionals who work in her district to keep the entire nation safe. We all deserve a full investigation into Russian interference in our elections and the increasingly credible allegations that Russian agents have penetrated the White House itself.
 
-**UPDATE** Flynn [has resigned](https://www.washingtonpost.com/world/national-security/michael-flynn-resigns-as-national-security-adviser/2017/02/13/0007c0a8-f26e-11e6-8d72-263470bf0401_story.html?hpid=hp_rhp-top-table-high_flynnresigns-1138pm%3Ahomepage%2Fstory) no thanks to Comstock.
+**UPDATE**
+
+Flynn [has resigned](https://www.washingtonpost.com/world/national-security/michael-flynn-resigns-as-national-security-adviser/2017/02/13/0007c0a8-f26e-11e6-8d72-263470bf0401_story.html?hpid=hp_rhp-top-table-high_flynnresigns-1138pm%3Ahomepage%2Fstory) no thanks to Comstock.
