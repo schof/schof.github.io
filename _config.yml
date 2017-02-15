@@ -31,6 +31,8 @@ locales:
         url:  /meet-comstock
       - text: News
         url:  /news
+      - text: Voting Record
+        url:  /voting-record
       - text: Get Involved
         url:  /get-involved
       - text: FAQ
