@@ -22,3 +22,18 @@ Just for fun let's look next door in the VA-8 and see what a real Congressional 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Something is rotten in the state of Denmark.&quot; This is a major crisis, it cries out for Congress to act. Republicans must not be silent.</p>&mdash; Rep. Don Beyer (@RepDonBeyer) <a href="https://twitter.com/RepDonBeyer/status/831713144288407552">February 15, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+**UPDATE**
+
+Comstock finally finds her Twitter account:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Agree. This investigation should go forward in the intelligence committees. <a href="https://t.co/l5720GvraZ">https://t.co/l5720GvraZ</a></p>&mdash; Barbara Comstock (@RepComstock) <a href="https://twitter.com/RepComstock/status/832027340347699200">February 16, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Typical Comstock - a day late and a dollar short. This statement contains no mention of Jeff Sessions and the conflict of interest he has. Second, it does not address the fact that the Chairman of the House Intelligence committee was a member of the Trump transition team. If Loretta Lynch should recuse herself for saying "hi" to Bill Clinton on an airplane why should members of the Trump campaign team be allowed to investigate themselves?
+
+Comstock also neglected to mention that she is the Chairwoman of the House Science Subcommittee. Democrats on that committee have been calling for an investigation into the reports that Donald Trump is using an insecure cellphone. Comstock has [dismissed calls for an investigation](http://www.bankinfosecurity.com/bickering-over-trumps-mobile-device-use-intensifies-a-9711) because she feels the Clinton email servers were not investigated enough.
+
+Finally, we're still waiting for a condemnation of Trump's disgraceful public statements that both calls into question the integrity of the intelligence professionals who live and work in her district. They are pretty much the only people keeping this ship together right now and they deserve her support.
