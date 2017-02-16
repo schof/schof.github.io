@@ -609,3 +609,17 @@ div#promotion {
   border-radius: 6px;
   box-shadow: 0 2px 0 #9b1c16;
 }
+
+#resources {
+  list-style: none;
+}
+
+#resources li {
+  font-size: 24px;
+  padding-bottom: 20px;
+  margin-left: -40px;
+}
+
+/*icon.span {
+  width: 40px;
+}*/
