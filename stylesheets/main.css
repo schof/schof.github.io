@@ -33,6 +33,11 @@ h1 {
 h2 {
   font-size: 20px;
   line-height: 24px;
+  color: #445488;
+}
+
+h3 {
+  color: #445488;
 }
 
 h4 { font-style: italic; }
@@ -620,6 +625,11 @@ div#promotion {
   margin-left: -40px;
 }
 
-/*icon.span {
-  width: 40px;
-}*/
+.source {
+  font-size: 10px;
+}
+
+.contributor-image {
+  display: inline-block;
+  float: left;
+}

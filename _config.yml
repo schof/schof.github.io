@@ -33,6 +33,8 @@ locales:
         url:  /news
       - text: Voting Record
         url:  /voting-record
+      - text: Resources
+        url:  /resources        
       - text: Get Involved
         url:  /get-involved
       - text: FAQ
