@@ -23,6 +23,8 @@ RUN bundle install
 
 ADD . /app/
 RUN bundle exec jekyll build
+COPY config/nginx.conf /etc/nginx/nginx.conf
 
 ## TODO replace with nginx
-CMD ["bundle", "exec", "jekyll serve -H 0.0.0.0"]
+# CMD ["bundle", "exec", "jekyll serve -H 0.0.0.0"]
+CMD ["nginx"]
