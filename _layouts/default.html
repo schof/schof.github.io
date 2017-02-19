@@ -19,7 +19,12 @@
     <meta name="twitter:title" content="{{page.title}}"/>
     <meta name="twitter:card" content="summary_large_image"/>
 
-    {% if page.snippet %}
+    {% if page.rsvp %}
+      <meta property='og:image' content='{{site.url}}/images/events/{{page.image}}'/>
+      <meta property='og:description' content="{{page.description}}"/>
+      <meta name="twitter:image" content="{{site.url}}/images/events/{{page.image}}"/>
+      <meta name="twitter:description" content="{{page.description}}"/>
+    {% elsif page.snippet %}
       <meta property='og:image' content='{{site.url}}/images/news/{{page.image}}'/>
       <meta property='og:description' content="{{page.snippet}}"/>
       <meta name="twitter:image" content="{{site.url}}/images/news/{{page.image}}"/>

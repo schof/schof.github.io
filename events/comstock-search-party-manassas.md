@@ -2,8 +2,9 @@
 layout: event_post
 title: Comstock Search Party (Manassas, VA)
 image: missing-comstock.png
+description: We will be handing out flyers to people attending the Manassas St. Patrick's Day Parade. Since it's a high profile photo op we might even find her there!
+rsvp: example.com
 ---
-
 
 We're organizing a search party to help find Barbara Comstock! Since she doesn't have a public schedule we're going to start looking for her in places where she is likely to turn up.
 
