@@ -1,7 +1,8 @@
 ---
 layout: event_post
-title: Comstock Search Party (Manassas, VA)
-image: missing-comstock.png
+title: Comstock Search Party
+social-image: search-party-manassas-preview.png
+image: search-party-manassas.png
 description: We will be handing out flyers to people attending the Manassas St. Patrick's Day Parade. Since it's a high profile photo op we might even find her there!
 rsvp: example.com
 ---

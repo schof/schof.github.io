@@ -24,6 +24,10 @@ url: https://dumpcomstock.com
 gems:
   - jekyll-redirect-from
 
+collections:
+  events:
+    output: true
+
 locales:
   sitelinks:
     en:
