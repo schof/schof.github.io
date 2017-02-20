@@ -7,8 +7,4 @@ description: We will be handing out flyers to people attending the Manassas St. 
 rsvp: example.com
 ---
 
-We're organizing a search party to help find Barbara Comstock! Since she doesn't have a public schedule we're going to start looking for her in places where she is likely to turn up.
-
-We will be handing out flyers to people attending the St. Patrick's Day Parade. Since it's a high profile photo op we might even find her there!
-
-<a href="" class="action-link">RSVP</a>
+<link href='https://actionnetwork.org/css/style-embed.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v2/form/comstock-search-party-manassas-va?format=js&source=widget'></script><div id='can-form-area-comstock-search-party-manassas-va' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>

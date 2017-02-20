@@ -594,22 +594,6 @@ div#promotion {
   font-size: 20px;
 }
 
-#promotion a {
-  background: #CC342D;
-  background-size: 30px 25px;
-  color: #ffffff;
-  padding: 8px 20px 8px 20px;
-  font-size: 16px;
-  line-height: 20px;
-  text-decoration: none;
-  margin: 0 3px 0 0;
-  text-shadow: none;
-  border: 2px solid #9b1c16;
-  display: inline-block;
-  border-radius: 6px;
-  box-shadow: 0 2px 0 #9b1c16;
-}
-
 div.event-post h1 {
   clear: left;
   padding-top: 20px;
@@ -682,4 +666,25 @@ time.icon span
   letter-spacing: -0.05em;
   padding-top: 1.15em;
   color: #2f2f2f;
+}
+
+a.action-link {
+  background: #CC342D;
+  background-size: 30px 25px;
+  color: #ffffff;
+  padding: 8px 20px 8px 20px;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+  margin: 0 3px 0 0;
+  text-shadow: none;
+  border: 2px solid #9b1c16;
+  display: inline-block;
+  border-radius: 6px;
+  box-shadow: 0 2px 0 #9b1c16;
+}
+
+div#event-signup {
+  clear:left;
+  padding-top: 30px;
 }
