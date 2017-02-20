@@ -7,23 +7,23 @@ layout: default
     <p><img class='news' src='{{site.url}}/images/events/{{page.image}}' alt='{{page.title}}'/></p>
     <span class='event-date'>
       <time datetime="2017-03-11" class="icon">
-        <em>Saturday</em>
-        <strong>March</strong>
-        <span>11</span>
+        <em>{{ page.day-of-week }}</em>
+        <strong>{{ page.month }}</strong>
+        <span>{{ page.day }}</span>
       </time>
     </span>
     <span id='event-details'>
       <div id='event-time'>
         <div class='event-icon'><i class="fa fa-clock-o fa-fw"></i></div>
-        <div class='event-info'>9:00 AM - 12:00 PM</div>
+        <div class='event-info'>{{ page.time }}</div>
       </div>
       <div id='event-location'>
         <div class='event-icon'><i class="fa fa-map-marker fa-fw"></i></div>
-        <div class='event-info'>Manassas Station, 9431 West St, Manassas, VA 20110</div>
+        <div class='event-info'>{{ page.location }}</div>
       </div>
       <div id='event-location'>
         <div class='event-icon'><i class="fa fa-pencil-square-o fa-fw"></i></div>
-        <div class='event-info'>Volunteers needed to hand out flyers</div>
+        <div class='event-info'>{{ page.action }}</div>
       </div>
     </span>
 
