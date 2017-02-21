@@ -1,0 +1,31 @@
+---
+layout: page
+title: Campaign Contributions
+---
+
+
+<div id='promotion'>
+  <h3>Did You Know?</h3>
+  60% of Comstock's Contributions Come from Outside her District
+
+  <div class='source'>
+    Source: <a href='https://www.opensecrets.org/politicians/geog.php?cycle=2016&cid=N00036023&type=I'>Open Secrets</a>
+  </div>
+</div>
+
+<h2>Meet Barbara Comstock's Contributors</h2>
+
+<br/>
+Comstock pretends to be a moderate but the people who fund her campaign know better.
+<br/><br/>
+
+{% for contributor in site.data.contributors %}
+<div class='contributor'>
+  <img src='{{site.url}}/images/contributors/{{contributor.image}}' class='contributor'/>
+  <h3><b>{{ contributor.name }}</b></h3>
+  <p>{{ contributor.bio }}</p>
+  <span class='source'>
+    Source: <a href='{{contributor.source-link}}'>{{contributor.source-name}}</a>
+  </span>
+</div>
+{% endfor %}

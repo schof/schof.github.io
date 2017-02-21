@@ -713,3 +713,13 @@ div#event-signup {
   clear:left;
   padding-top: 30px;
 }
+
+div.contributor {
+  clear: left;
+  padding-bottom: 30px;
+}
+
+img.contributor {
+  float: left;
+  padding-right: 20px;
+}

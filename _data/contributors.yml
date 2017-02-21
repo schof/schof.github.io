@@ -1,0 +1,40 @@
+- name: Donald Trump
+  image: donald-trump.jpg
+  bio: Fake billionaire President most famous for his views on "grabbing them by the pussy" and stealing the 2016 election with the help of the Russians.
+  source-name: New York Times
+  source-link: https://www.nytimes.com/2017/02/14/us/politics/russia-intelligence-communications-trump.html
+- name: Betsy Devos
+  image: betsy-devos.jpg
+  bio: Billionaire friend of Comstock who "transformed" the school system in Michigan by introducing charter schools which were expensive, unaccountable, and performed worse in standardized testing.
+  source-name: Washington Post
+  source-link: https://www.washingtonpost.com/news/answer-sheet/wp/2016/12/08/a-sobering-look-at-what-betsy-devos-did-to-education-in-michigan-and-what-she-might-do-as-secretary-of-education/?utm_term=.7ba334c4a114
+- name: Newt Gingrich
+  image: newt-gingrich.jpg
+  bio: Declared "straight-out war" on federal employees, especially those who serve veterans, and advocated stripping them of the very protections that help them to expose wrongdoing.
+  source-name: Washington Post
+  source-link: https://www.washingtonpost.com/news/powerpost/wp/2016/12/19/straight-out-war-on-federal-bureaucracy-gingrich-urges-trump/
+- name: Karl Rove
+  image: karl-rove.jpg
+  bio: Although he escaped indictment, Karl Rove was one of the sources behind the outing of CIA employee Valerie Plame, which led to the conviction of Scooter Libby (Barbara Comstock chaired Libby's defense fund).
+  source-name: Talking Points Memo
+  source-link: http://talkingpointsmemo.com/livewire/state-del-barbara-comstock-former-scooter-libby-defense-fund-chairwoman-running-to-succeed-rep-wolf
+- name: Sheldon Adelson
+  image: sheldon-adelson.png
+  bio: Billionaire casino owner who feels like the best way to handle the Iranian nuclear problem is to "drop a nuclear bomb in the middle of the Iranian desert."
+  source-name: Jerusalem Post
+  source-link: http://www.jpost.com/Diplomacy-and-Politics/Adelson-US-should-drop-atomic-bomb-on-Iran-329641
+- name: Susan B Anthony List
+  image: susan-b-anthony-list.jpg
+  bio: Supports outlawing abortion and opposes an exception to protect the health of the mother calling protections for a mother’s health “frivolous.”
+  source-name: SBA List
+  source-link: https://www.sba-list.org/suzy-b-blog/very-extreme-elena-kagan
+- name: Koch Industries
+  image: koch-industries.jpg
+  bio: The billionaire Koch brothers are well known for donating to politicians who want to ship jobs overseas including several hundred jobs from factories in Virginia.
+  source-name: The Daily Progress
+  source-link: http://www.dailyprogress.com/news/invista-lays-off-company-says-it-s-restructuring/article_ecd16f02-2862-5283-86a8-25857f206699.html
+# - name:
+#   image:
+#   bio:
+#   source-name:
+#   source-link:
