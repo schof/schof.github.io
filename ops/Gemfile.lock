@@ -1,0 +1,67 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (4.2.7.1)
+      i18n (~> 0.7)
+      json (~> 1.7, >= 1.7.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.3, >= 0.3.4)
+      tzinfo (~> 1.1)
+    awful (0.0.166)
+      aws-sdk (>= 2.7.9)
+      dotenv
+      thor
+    aws-sdk (2.7.11)
+      aws-sdk-resources (= 2.7.11)
+    aws-sdk-core (2.7.11)
+      aws-sigv4 (~> 1.0)
+      jmespath (~> 1.0)
+    aws-sdk-resources (2.7.11)
+      aws-sdk-core (= 2.7.11)
+    aws-sigv4 (1.0.0)
+    cfer (0.4.2)
+      activesupport (~> 4.2, >= 4.2.6)
+      aws-sdk (~> 2.2, >= 2.2.33)
+      aws-sdk-resources (~> 2.2, >= 2.2.33)
+      bundler
+      docile (~> 1.1, >= 1.1.5)
+      git (~> 1.3)
+      highline (~> 1.7, >= 1.7.8)
+      preconditions (~> 0.3.0)
+      rainbow (~> 2.1)
+      semantic (~> 1.4, >= 1.4.1)
+      table_print (~> 1.5, >= 1.5.6)
+      thor (~> 0.19.1)
+    coreos_ami (0.0.4)
+      trollop
+    docile (1.1.5)
+    dotenv (2.2.0)
+    git (1.3.0)
+    highline (1.7.8)
+    i18n (0.8.0)
+    ipaddress (0.8.3)
+    jmespath (1.3.1)
+    json (1.8.6)
+    minitest (5.10.1)
+    preconditions (0.3.0)
+    rainbow (2.2.1)
+    semantic (1.6.0)
+    table_print (1.5.6)
+    thor (0.19.1)
+    thread_safe (0.3.5)
+    trollop (2.1.2)
+    tzinfo (1.2.2)
+      thread_safe (~> 0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awful (>= 0.0.166)
+  cfer (= 0.4.2)
+  coreos_ami
+  ipaddress
+  thor (<= 0.19.1)
+
+BUNDLED WITH
+   1.14.4

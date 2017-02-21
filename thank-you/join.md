@@ -1,6 +1,7 @@
 ---
 layout: faq
 title: Welcome to the Resistance!
+sitemap: false
 ---
 
 ## We Need Your Help to Get the Word Out
