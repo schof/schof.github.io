@@ -3,23 +3,27 @@ layout: page
 title: Campaign Contributions
 ---
 
-## **Did You Know?**
 
-### 60% of Comstock's Campaign Contributions come from Outside Her District
+<div id='promotion'>
+  <h3>Did You Know?</h3>
+  60% of Comstock's Contributions Come from Outside her District
 
-<span class='source'>
-  Source: [Open Secrets](https://www.opensecrets.org/politicians/geog.php?cycle=2016&cid=N00036023&type=I)
-</span>
+  <div class='source'>
+    Source: <a href='https://www.opensecrets.org/politicians/geog.php?cycle=2016&cid=N00036023&type=I'>Open Secrets</a>
+  </div>
+</div>
 
-## **Contributor Hall of Shame**
+## Meet Barbara Comstock's Contributors
 
 <br/>
-Meet some of Comstock's biggest supporters. Comstock pretends to be a moderate but the people who fund her campaign know better.
+Comstock pretends to be a moderate but the people who fund her campaign know better.
+<br/><br/>
 
-### **Donald Trump**
+### Donald Trump
 
+Fake billionaire President most famous for his views on "grabbing them by the pussy" and stealing the 2016 election with the help of the Russians.
 
-### **Betsy Devos**
+### Betsy Devos
 
 Billionaire friend of Comstock who "transformed" the school system in Michigan by introducing charter schools which were expensive, unaccountable, and performed worse in standardized testing.
 
@@ -27,7 +31,7 @@ Billionaire friend of Comstock who "transformed" the school system in Michigan b
   Source: [Washington Post](https://www.washingtonpost.com/news/answer-sheet/wp/2016/12/08/a-sobering-look-at-what-betsy-devos-did-to-education-in-michigan-and-what-she-might-do-as-secretary-of-education/?utm_term=.7ba334c4a114)
 </span>
 
-### **Newt Gingrich**
+### Newt Gingrich
 
 Declared "straight-out war" on federal employees, especially those who serve veterans, and advocated stripping them of the very protections that help them to expose wrongdoing.
 
@@ -35,7 +39,7 @@ Declared "straight-out war" on federal employees, especially those who serve vet
   Source: [Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2016/12/19/straight-out-war-on-federal-bureaucracy-gingrich-urges-trump/?utm_term=.1e68882a88e1)
 </span>
 
-### **Karl Rove**
+### Karl Rove
 
 Although he escaped indictment, Karl Rove was one of the sources behind the outing of CIA employee Valerie Plame, which led to the conviction of Scooter Libby (Barbara Comstock chaired Libby's defense fund).
 
@@ -44,7 +48,7 @@ Although he escaped indictment, Karl Rove was one of the sources behind the outi
 </span>
 
 
-### **Sheldon Adelson**
+### Sheldon Adelson
 
 <span class='contributor-image'>
   ![Sheldon Adelson]({{ site.url }}/images/contributors/sheldon-adelson.png)
@@ -58,7 +62,7 @@ Billionaire casino owner who feels like the best way to handle the Iranian nucle
 
 <div style="clear: both;"></div>
 
-### **Susan B Anthony List**
+### Susan B Anthony List
 
 <span class='contributor-image'>
   ![Susan B Anthony List]({{ site.url }}/images/contributors/susan-b-anthony-list.png)
