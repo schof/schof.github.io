@@ -1,3 +1,27 @@
+# - date:
+#   bill:
+#   bill_url:
+#   trump_position: "Supports"
+#   trump_url:
+#   comstock_vote: "Yes"
+#   comstock_url:
+
+- date: Feb. 16
+  bill: Repeal of a rule requiring state and local governments to distribute federal funds to qualified health centers even if they perform abortions
+  bill_url: https://www.congress.gov/bill/115/house-joint-resolution/43
+  trump_position: "Supports"
+  trump_url: https://www.donaldjtrump.com/press-releases/trump-campaign-announces-national-co-chairs-of-pro-life-coalition
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/99
+
+- date: Feb. 15
+  bill: Repeal of a Department of Labor rule on drug testing of applicants for unemployment compensation
+  bill_url: https://www.congress.gov/bill/115/house-joint-resolution/43
+  trump_position: "Supports"
+  trump_url: https://www.donaldjtrump.com/press-releases/trump-campaign-announces-national-co-chairs-of-pro-life-coalition
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/97
+
 - date: Feb. 7
   bill: Repeal of a Department of Education rule on teacher preparation programs
   bill_url: https://www.congress.gov/bill/115th/house-joint-resolution/58

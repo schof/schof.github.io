@@ -1,6 +1,6 @@
 ---
 layout: voting
-title: Voting Record
+title: Voting for the Trump Agenda
 ---
 
 <div style="overflow-x:auto;">
@@ -14,19 +14,19 @@ title: Voting Record
     {% for vote in site.data.votes %}
       <tr class="vote">
         <td class="bill">
-          <a href="{{ vote.bill_url }}">
+          <a href="{{ vote.bill_url }}" rel="nofollow" target='_blank'>
             {{ vote.bill }}
           </a>
         </td>
         <td class="trump-position {{ vote.trump_position | strip | downcase }}">
-          <a href="{{ vote.trump_url }}">
+          <a href="{{ vote.trump_url }}" rel="nofollow" target='_blank'>
             <div>
               {{ vote.trump_position }}
             </div>
           </a>
         </td>
         <td class="comstock-position {{ vote.comstock_vote | strip | downcase }}">
-          <a href="{{ vote.comstock_url }}">
+          <a href="{{ vote.comstock_url }}" rel="nofollow" target='_blank'>
             <div class="{{styles}}">
               {{ vote.comstock_vote }}
             </div>
