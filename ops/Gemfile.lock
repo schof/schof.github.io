@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/rlister/stax
+  revision: 2947faccd49325f47910f35296cd622f959c596e
+  specs:
+    stax (0.0.1)
+      awful (>= 0.0.166)
+      thor
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -11,13 +19,13 @@ GEM
       aws-sdk (>= 2.7.9)
       dotenv
       thor
-    aws-sdk (2.7.11)
-      aws-sdk-resources (= 2.7.11)
-    aws-sdk-core (2.7.11)
+    aws-sdk (2.7.12)
+      aws-sdk-resources (= 2.7.12)
+    aws-sdk-core (2.7.12)
       aws-sigv4 (~> 1.0)
       jmespath (~> 1.0)
-    aws-sdk-resources (2.7.11)
-      aws-sdk-core (= 2.7.11)
+    aws-sdk-resources (2.7.12)
+      aws-sdk-core (= 2.7.12)
     aws-sigv4 (1.0.0)
     cfer (0.4.2)
       activesupport (~> 4.2, >= 4.2.6)
@@ -61,7 +69,8 @@ DEPENDENCIES
   cfer (= 0.4.2)
   coreos_ami
   ipaddress
+  stax!
   thor (<= 0.19.1)
 
 BUNDLED WITH
-   1.14.4
+   1.14.5
