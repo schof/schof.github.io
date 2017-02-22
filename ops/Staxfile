@@ -1,0 +1,3 @@
+set_prefix 'dc-'
+add_stack :vpc
+add_stack :web
