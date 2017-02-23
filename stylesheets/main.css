@@ -723,3 +723,7 @@ img.contributor {
   float: left;
   padding-right: 20px;
 }
+
+div#banner {
+  background-color: #e1ff00;
+}
