@@ -11,7 +11,7 @@ On Tuesday Barbara Comstock held another one of her conference calls, during whi
 
 A caller then asked Comstock about about increased infrastructure and military spending. He said these things sounded all well and good but he wanted to know:
 
-> "How are we going to pay for this? What is the plan?""
+> "How are we going to pay for this? What is the plan?"
 
 Comstock started off with the standard Republican nonsense of "we'll grow our way out of this!" Never mind the fact that there is [no correlation](https://www.washingtonpost.com/posteverything/wp/2016/04/20/a-graphical-assault-on-supply-side-tax-cuts/) between tax cuts and job growth or investment growth or really growth of any kind other than growth in the deficit. Now your average Republican would just leave it at "tax cuts good" and move on but Comstock was not quite finished with her answer.
 
