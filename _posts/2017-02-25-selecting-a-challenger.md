@@ -2,8 +2,8 @@
 layout: news_post
 title: "Finding a Challenger"
 date: 2017-02-25 00:00:00 +0000
-description: ""
-snippet: "The committee members are about to start the nomination and voting process for delegates so you need to take action right now."
+description: "Find out what is being done and how you can be part of the selection process."
+snippet: "The 10th congressional committee members are about to start the nomination and voting process for delegates. You need to take action right now."
 image: comstock-vs-unknown.png
 ---
 
