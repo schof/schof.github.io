@@ -226,6 +226,7 @@ div.post h3 a:hover { text-decoration: underline; }
   display: table-cell;
   vertical-align: top;
   width: 30%;
+  clear: both;
 }
 
 #sidebar {
@@ -726,4 +727,27 @@ img.contributor {
 
 div#banner {
   background-color: #e1ff00;
+}
+
+div.candidate {
+  clear: left;
+  padding-bottom: 30px;
+}
+
+img.candidate {
+  float: left;
+  padding-right: 20px;
+}
+
+ul.candidate-background {
+  display: block;
+}
+
+li.candidate-background {
+  list-style-type: none;
+}
+
+div#candidate-highlights {
+  display: block;
+  float: left;
 }
