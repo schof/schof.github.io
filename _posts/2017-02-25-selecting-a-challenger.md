@@ -22,7 +22,7 @@ Anyone who lives in the Virginia 10th Congressional District can get involved in
 * [Clarke County Democratic Committee](http://clarkecountydems.blogspot.com/)
 * [Fairfax County Democratic Committee](http://fairfaxdemocrats.org)
 * [Loudoun County Democratic Committee](http://loudoundemocrats.org)
-* [Manassas-Manassas Park Democratic Committee](http://clarkecountydems.blogspot.com/)
+* [Manassas & Manassas Park Cities Democratic Committee](http://manassascitydemocrats.org)
 * [Prince William County Democratic Committee](http://www.pwcdems.com/)
 * [Winchester-Frederick County Democratic Committee](http://wfcdcva.org/)
 
