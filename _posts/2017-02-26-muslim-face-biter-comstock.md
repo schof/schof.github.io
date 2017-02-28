@@ -2,8 +2,8 @@
 layout: news_post
 title: "Alleged Anti-Muslim Facebiter May Have Worked for Comstock"
 date: 2017-02-25 00:00:00 +0000
-description: ""
-snippet: ""
+description: "Plot twist: the accused facebiter apparently worked for Comstock in 2013"
+snippet: "We were surprised to learn that Robin McGreer apparently worked for Barbara Comstock back in 2013."
 image: robin-mcgreer.jpg
 ---
 
