@@ -1,36 +1,32 @@
 ---
 layout: page
-title: Potential Candidates
+title: Meet the Candidates
 ---
 
 
 <div id='promotion'>
-  <h3>Did You Know?</h3>
-  60% of Comstock's Contributions Come from Outside her District
-
-  <div class='source'>
-    Source: <a href='https://www.opensecrets.org/politicians/geog.php?cycle=2016&cid=N00036023&type=I'>Open Secrets</a>
-  </div>
+  <h3>None of These Candidates have Announced Yet</h3>
+  This list was put together after interviewing numerous Democratic officials within the 10th Congressional District.
+  None of these candidates have suggested publicily or privately that they are considering a run. It is still too early for candidates to announce their
+  intentions but that doesn't stop us from learning more about them while we wait.
 </div>
-
-<h2>Meet the Likely Candidates</h2>
-
-<br/>
-Comstock pretends to be a moderate but the people who fund her campaign know better.
-<br/><br/>
 
 {% for candidate in site.data.candidates %}
 <div class='candidate'>
   <img src='{{site.url}}/images/candidates/{{candidate.image}}' class='candidate'/>
   <h3><b>{{ candidate.name }}</b></h3>
   {{candidate.position}}
-  <h4>Background</h4>
-  <ul class='candidate-background'>
-  {% for background in candidate.background %}
-    <li class='candidate-background'>{{background}}</li>
-  {% endfor %}
-  </ul>
-  <div id='candidate-highlights'>
+  <p><em>{{candidate.home}}</em></p>
+  <div id='candidate-background'>
+    <h4>Previous Position</h4>
+    {{candidate.previous}}
+    <!-- <ul class='candidate-background'>
+    {% for background in candidate.background %}
+      <li class='candidate-background'>{{background}}</li>
+    {% endfor %}
+    </ul> -->
+  </div>
+  <div id onerror=""='candidate-highlights'>
     <h4>Highlights</h4>
     <ul>
     {% for highlight in candidate.highlights %}
@@ -38,6 +34,6 @@ Comstock pretends to be a moderate but the people who fund her campaign know bet
     {% endfor %}
     </ul>
   </div>
-  <!-- <div style="clear:left"/> -->
+  <a href='#' class='read-more-candidate'>Read More</a>
 </div>
 {% endfor %}

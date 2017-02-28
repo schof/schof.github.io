@@ -1,10 +1,20 @@
 - name: Jennifer Wexton
   image: jennifer-wexton.jpg
-  position: Virginia State Senate (minority whip)
+  position: Virginia State Senator
   home: Loudoun County
-  background:
-    - Former prosecutor and judge
+  previous:
+    - Prosecutor Loudoun County
   highlights:
     - Proved she can win big in Loudoun County
     - Passed several important bills in the Republican dominated VA legislature
     - Raised over $1M for a competitive State Senate race
+- name: Kristen Ulmstattd
+  image: kristen-ulmstattd.png
+  position: Leesburg District Supervisor
+  home: Loudoun County
+  previous:
+    - Leesburg Town Council
+  highlights:
+    - Former intelligence officer with the CIA
+    - Former Lieutenant in the U.S. Naval Reserve
+    - Former Mayor of Leesburg

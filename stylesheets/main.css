@@ -730,7 +730,7 @@ div#banner {
 }
 
 div.candidate {
-  clear: left;
+  clear: both;
   padding-bottom: 30px;
 }
 
@@ -747,7 +747,20 @@ li.candidate-background {
   list-style-type: none;
 }
 
+div#candidate-background {
+  display: inline-block;
+}
+
+div#candidate-background h4 {
+  width: 170px;
+}
+
+
 div#candidate-highlights {
   display: block;
-  float: left;
+}
+
+a.read-more-candidate {
+  float: right;
+  padding-bottom: 30px;
 }
