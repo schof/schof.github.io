@@ -1,7 +1,7 @@
 ---
 layout: news_post
 title: "Comstock\'s INSPIRE Women Act is a Complete Joke"
-date: 2017-02-25 00:00:00 +0000
+date: 2017-03-01 00:00:00 +0000
 description: "It turns out that the bill - like Comstock herself - is a complete joke."
 snippet: "This bill was so irrelevant that it skipped the committee process and the results of the vote were never recorded. Literally nobody cares about this bill."
 image: comstock-at-white-house.jpg
