@@ -9,6 +9,7 @@ resource :lc, 'AWS::AutoScaling::LaunchConfiguration' do
   key_name 'ric'
   security_groups [
     Fn::ref(:sgssh),
+    Fn::ref(:sghttp),
   ]
   associate_public_ip_address true
   block_device_mappings [

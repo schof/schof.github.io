@@ -24,7 +24,7 @@ end
 
 ## security group for http from ELB to instances
 resource :sghttp, 'AWS::EC2::SecurityGroup' do
-  group_description 'HTTP access from ELB to instances'
+ group_description 'HTTP access from ELB to instances'
   vpc_id Fn::ref(:vpcid)
   tag :Name, Fn::ref('AWS::StackName')
   security_group_egress [

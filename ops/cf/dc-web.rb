@@ -12,8 +12,8 @@ parameter :subnetids, type: 'List<AWS::EC2::Subnet::Id>',  default: lookup_outpu
 # parameter :ecscluster, type: 'String', default: 'dc-vpc'
 
 parameter :ami,       type: 'AWS::EC2::Image::Id',         default: CoreOS.channel('stable').ami
-# parameter :registry,  type: 'String',                      default: '171596573904.dkr.ecr.us-east-1.amazonaws.com'
-# parameter :alias,     type: 'String',                      default: 'dumpcomstock.com'
+parameter :registry,  type: 'String',                      default: '232121879002.dkr.ecr.us-east-1.amazonaws.com'
+parameter :alias,     type: 'String',                      default: 'dumpcomstock.com'
 # parameter :domain,    type: 'String',                      default: parameters[:alias].split('.').last(2).join('.')
 
 p parameters
@@ -21,7 +21,7 @@ p parameters
 include_template(
   'dc-web/iam.rb',
   'dc-web/security_groups.rb',
-  # 'dc-web/elb.rb',
+  'dc-web/elb.rb',
   # 'dc-web/log_group.rb',
   'dc-web/launch_config.rb',
   'dc-web/autoscaling.rb',
