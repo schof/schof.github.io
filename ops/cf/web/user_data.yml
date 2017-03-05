@@ -49,3 +49,23 @@ coreos:
       ExecStop=/usr/bin/docker stop %p
       Restart=on-failure
       RestartSec=60
+  - name: ssm.service
+    command: start
+    content: |-
+      [Unit]
+      Description=AWS SSM agent
+      [Service]
+      TimeoutStartSec=0
+      User=core
+      ExecStartPre=/usr/bin/docker pull rlister/amazon-ssm-agent:latest
+      ExecStartPre=-/usr/bin/docker rm %p
+      ExecStart=/usr/bin/docker run --name %p \
+        -h %H \
+        -v /var/run/dbus:/var/run/dbus \
+        -v /run/systemd:/run/systemd \
+        -v /etc/sha:/etc/sha \
+        -v /var/log/journal:/var/log/journal \
+        rlister/amazon-ssm-agent:latest
+      ExecStop=/usr/bin/docker stop %p
+      Restart=on-failure
+      RestartSec=60
