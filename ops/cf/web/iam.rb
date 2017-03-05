@@ -13,7 +13,7 @@ resource :iamrole, 'AWS::IAM::Role' do
     ]
   )
   managed_policy_arns [
-    # 'arn:aws:iam::aws:policy/service-role/AmazonEC2RoleforSSM', # SSM for deploys
+    'arn:aws:iam::aws:policy/service-role/AmazonEC2RoleforSSM',   # SSM for deploys
     'arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryReadOnly', # pull docker images
   ]
 end
