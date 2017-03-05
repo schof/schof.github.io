@@ -16,14 +16,12 @@ parameter :registry,  type: 'String',                      default: '23212187900
 parameter :alias,     type: 'String',                      default: 'dumpcomstock.com'
 # parameter :domain,    type: 'String',                      default: parameters[:alias].split('.').last(2).join('.')
 
-p parameters
-
 include_template(
-  'dc-web/iam.rb',
-  'dc-web/security_groups.rb',
-  'dc-web/elb.rb',
+  'web/iam.rb',
+  'web/security_groups.rb',
+  'web/elb.rb',
   # 'dc-web/log_group.rb',
-  'dc-web/launch_config.rb',
-  'dc-web/autoscaling.rb',
+  'web/launch_config.rb',
+  'web/autoscaling.rb',
   # 'dc-web/route53.rb',
 )

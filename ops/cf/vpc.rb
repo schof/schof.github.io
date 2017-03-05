@@ -12,8 +12,8 @@ mappings(
 )
 
 include_template(
-  'dc-vpc/vpc.rb',
-  'dc-vpc/subnets.rb',
+  'vpc/vpc.rb',
+  'vpc/subnets.rb',
   # 'vpc/security_groups.rb',
   # 'vpc/iam-packer.rb',
   # 'vpc/iam-ecs.rb',
