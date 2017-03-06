@@ -28,9 +28,7 @@ module Stax
 
     no_commands do
       def cfer_parameters
-        {
-          vpc: stack_prefix + 'vpc'
-        }
+        {vpc: stack_prefix + 'vpc'}
       end
     end
   end
