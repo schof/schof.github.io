@@ -11,7 +11,8 @@ module Stax
   add_stack :web
 
   class Web < Stack
-    include Asg, Elb, Ec2, Lmi, Keypair
+    include Asg, Elb, Ec2, Lmi, Keypair, Ssm
+
     no_commands do
       def cfer_parameters
         {
