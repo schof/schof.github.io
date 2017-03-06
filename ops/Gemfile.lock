@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rlister/stax
-  revision: 728041d676b6e2c9d2b26329a5f0120cf7e444b1
+  revision: b6b1b50dbc3a2cacbd7a89d134f99d195ff88d7d
   specs:
     stax (0.0.1)
       awful (>= 0.0.168)
