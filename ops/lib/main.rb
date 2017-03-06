@@ -30,6 +30,22 @@ module Stax
       def cfer_parameters
         {vpc: stack_prefix + 'vpc'}
       end
+
+      def docker(*args)
+        (@_docker ||= Docker.new).invoke(*args)
+      end
+    end
+
+    desc 'deploy', 'deploy web stack'
+    def deploy
+      docker :build
+      docker :login
+      docker :push
+      ssm_run_commands(
+        'systemctl stop web',
+        'systemctl start web',
+      )
     end
   end
+
 end
