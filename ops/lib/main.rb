@@ -12,5 +12,12 @@ module Stax
 
   class Web < Stack
     include Asg, Elb, Ec2, Lmi, Keypair
+    no_commands do
+      def cfer_parameters
+        {
+          vpc: stack_prefix + 'vpc'
+        }
+      end
+    end
   end
 end
