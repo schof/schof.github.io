@@ -2,8 +2,8 @@
 layout: news_post
 title: "The ACA Covers 39,800 People in Comstock\'s District"
 date: 2017-03-06 00:00:00 +0000
-description: ""
-snippet: ""
+description: "Uninsured rate in Comstock's district has gone from 12.7% to 8.2% since the ACA was implemented. ACA repeal threatens to wipe out those gains."
+snippet: "Barbara Comstock has always been against the ACA and she's fought every aspect of it while it was being implemented - even the provisions that she now pretends to support."
 image: comstock-ryan.jpg
 ---
 
