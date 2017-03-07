@@ -1,6 +1,7 @@
 ---
 layout: event_post
 title: Comstock Search Party
+location: VRE Parking Lot - Manassas, VA
 social-image: search-party-manassas-preview.png
 image: search-party-manassas.png
 description: We will be handing out flyers to people attending the Manassas St. Patrick's Day Parade. Since it's a high profile photo op we might even find her there!
@@ -9,7 +10,7 @@ day-of-week: Saturday
 month: March
 day: 11
 time: 9:00 AM - 12:00 PM
-location: Manassas Station, 9431 West St, Manassas, VA 20110
+address: Manassas Station, 9431 West St, Manassas, VA 20110
 date: 2017-02-20
 ---
 

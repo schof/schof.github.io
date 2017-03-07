@@ -603,7 +603,15 @@ div#promotion {
 div.event-post h1 {
   clear: left;
   padding-top: 20px;
+  padding-bottom: 0px;
   color: #445488;
+}
+
+div.event-post h2 {
+  clear: left;
+  padding: 0px;
+  margin-top: 0px;
+  /*line-height: 20px;*/
 }
 
 span.event-date {
