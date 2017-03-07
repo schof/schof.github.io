@@ -2,7 +2,7 @@
 layout: news_post
 title: "Comstock Looks Forward to Defunding Planned Parenthood"
 date: 2017-03-07 00:00:00 +0000
-description: "The only thing Barbara Comstock hates more than the Clinton is abortion"
+description: "The only thing Barbara Comstock hates more than the Clintons is abortion"
 snippet: "Comstock once voted against a government shutdown because she was worried it would derail an investigation into Planned Parenthood. She's anti choice all the way."
 image: hardball-abortion-screed.jpg
 ---
