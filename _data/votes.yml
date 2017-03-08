@@ -6,6 +6,38 @@
 #   comstock_vote: "Yes"
 #   comstock_url:
 
+- date: March 2
+  bill: Changes to rulemaking requirements for federal agencies
+  bill_url: https://www.congress.gov/bill/115/house-bill/1004
+  trump_position: "Supports"
+  trump_url: https://oversight.house.gov/wp-content/uploads/2017/03/HR998-1004-1009-SAP1.pdf
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/126
+  
+- date: March 1
+  bill: Repeal of a Department of Labor rule regarding records of work-related injuries and illnesses
+  bill_url: https://www.congress.gov/bill/115/house-joint-resolution/83
+  trump_position: "Supports"
+  trump_url: https://byrne.house.gov/sites/byrne.house.gov/files/HJRes%2083%20SAP.pdf
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/121
+  
+- date: March 1
+  bill: Requires review of proposed regulations by the Office of Information and Regulatory Affairs
+  bill_url: https://www.congress.gov/bill/115/house-bill/1009
+  trump_position: "Supports"
+  trump_url: https://oversight.house.gov/wp-content/uploads/2017/03/HR998-1004-1009-SAP1.pdf
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/120
+  
+- date: March 1
+  bill: Establishment of a commission to review federal regulations
+  bill_url: https://www.congress.gov/bill/115/house-bill/998
+  trump_position: "Supports"
+  trump_url: https://oversight.house.gov/wp-content/uploads/2017/03/HR998-1004-1009-SAP1.pdf
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/114
+  
 - date: Feb. 16
   bill: Repeal of a rule requiring state and local governments to distribute federal funds to qualified health centers even if they perform abortions
   bill_url: https://www.congress.gov/bill/115/house-joint-resolution/43
