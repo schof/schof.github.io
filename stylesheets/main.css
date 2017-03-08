@@ -633,6 +633,13 @@ div.event-time {
   display: table-cell;
 }
 
+div.event {
+  display: block;
+  float: left;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
 time.icon
 {
   font-size: 1em; /* change icon size */
