@@ -10,6 +10,6 @@ month: March
 day: 18
 time: 10:00 AM
 address: 7550 Reservation Drive, Springfield, VA 22153
-date: 2017-03-07
+date: 2017-03-18
 actionslug: voter-registration-awareness-event
 ---

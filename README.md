@@ -1,6 +1,14 @@
 DumpComstock.com
 ================
 
+## Running locally
+
+Events are all future dates so we want to generate those at build time
+
+```
+bundle exec jekyll build --future
+```
+
 ## Docker build
 
 ```

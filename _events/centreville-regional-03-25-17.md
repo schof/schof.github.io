@@ -11,6 +11,6 @@ month: March
 day: 25
 time: 10:00 AM
 address: 14200 St. Germaine Dr., Centreville, VA 22039
-date: 2017-03-07
+date: 2017-03-25
 actionslug: voter-registration-awareness-event-2  
 ---

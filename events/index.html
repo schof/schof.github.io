@@ -3,10 +3,10 @@ layout: page
 title: Dump Comstock Events
 ---
 
-{% for event in site.data.events %}
+{% for event in site.events | sort: 'date'   %}
 
 <div class='event'>
-  <h2><a href='{{event.path}}'>{{ event.title }}</a></h2>
+  <h2><a href='{{event.url}}'>{{ event.title }}</a></h2>
   <span class='event-date'>
     <time datetime="2017-03-11" class="icon">
       <em>{{ event.day-of-week }}</em>
