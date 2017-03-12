@@ -1,6 +1,6 @@
 ---
 layout: event_post
-title: Voter Registration and Awareness
+title: Voter Registration and Awareness (Centreville)
 location: Centreville Regional Library - Centreville, VA
 social-image:
 image: generic-event.png

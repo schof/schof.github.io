@@ -1,5 +1,6 @@
 ---
 layout: event_post
+title: Voter Registration and Awareness (Springfield)
 location: South Run Rec Center - Springfield, VA
 social-image:
 image: generic-event.png
