@@ -15,4 +15,4 @@ The majority of voters we spoke to were quite happy to see us out there. They di
 
 Most of our volunteers had never participated in a canvas event before. Many of them were from outside the district but there was also good representation from within Comstock's district. We hope to replicate this same type of grassroots cooperation that worked so well in the recent [special election](http://www.rollcall.com/news/gonzales/democrats-delaware-special-election) in Delaware.
 
-Our first time volunteers told us they were super excited and couldn't wait to participate in the next event. 
+The highlight of the day was when one of our volunteers spotted Barbara Comstock herself at the event. She made a hasty retreat when she observed a few of us waiting for her near the parade stand. If you have subscribed to our [YouTube channel](https://www.youtube.com/channel/UCb4v-RW8jOnbUstwpPxA3jQ/) then you've probably already seen the video of her [running away](https://www.youtube.com/watch?v=eijY0Oi5HbU) as she is being asked questions (SAD!)
