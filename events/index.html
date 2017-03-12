@@ -3,7 +3,7 @@ layout: page
 title: Dump Comstock Events
 ---
 
-{% assign events = site.events | sort: 'date'%}
+{% assign events = site.events | where:"active","true" | sort: 'date'%}
 {% for event in events %}
 
 <div class='event'>
