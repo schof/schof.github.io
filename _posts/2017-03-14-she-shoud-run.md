@@ -73,10 +73,10 @@ Voters were energized by the Women's March and flocked to organizations like Ind
 
 ## She lives in Loudoun County
 
-Specifically she lives in Leesburg where she has two sons who attend public school. Obviously we need a candidate that the whole district will love but Loudoun County is especially important. To put this in perspective, Clinton won Loudoun County by 30,000 votes but Bennett won by only 100 votes. Comstock's entire margin of victory was just 23,000 votes. We need to do better in Loudoun County to win this race and she has already won big there.
+Jennifer lives in Leesburg, with two sons who attend public school. We need a candidate the whole district will love, but Loudoun County is especially important. To put this in perspective, Clinton won Loudoun County by 30,000 votes where Bennett won by only 100. Comstock's entire margin of victory was just 23,000 votes. We need to do better in Loudoun County to win this race, and she has already won big there.
 
 Which bring us to our final qualification ...
 
 ## She is a Winner
 
-As a prosecutor she had a strong record winning cases. In 2014 she won a tough special election to replace Mark Herring when he became Virginia's Attorney General. She demonstrated her widespread appeal by winning 44 out of 47 precincts in her district. She went on to win re-election in 2015 while raising an impressive [$1.4 million](https://www.followthemoney.org/). The bottom line is that she's a fighter and knows how to win. Running a successful State Senate race (twice) is the closest thing to prepare you for a tough Congressional race.
+As a prosecutor Wexton had a strong record winning cases. In 2014 she won a tough special election to replace Mark Herring when he became Virginia's Attorney General. She demonstrated her widespread appeal by winning 44 out of 47 precincts in her district. She went on to win re-election in 2015, while raising an impressive [$1.4 million](https://www.followthemoney.org/). The bottom line is that she's a fighter and knows how to win. Running a successful State Senate race (twice) is the closest thing to prepare you for a tough Congressional race.
