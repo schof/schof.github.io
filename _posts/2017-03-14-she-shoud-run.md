@@ -2,7 +2,7 @@
 layout: news_post
 title: She Should Run
 date: 2017-03-14 00:00:00 +0000
-description: "Jennifer Wexton is considering a run for Barbara Comstock's Seat in Congress. Here's why she should."
+description: "Jennifer Wexton is considering a run for Barbara Comstock's Seat in Congress. Here's why you should help encourage her."
 snippet: "The bottom line is that she's a fighter and knows how to win. We need your help to encourage her to take the next step and help us retake the Congress."
 image: jennifer-wexton.png
 ---
