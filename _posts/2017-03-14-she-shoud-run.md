@@ -62,7 +62,7 @@ She fights hard for what she believes in and goes down swinging even if she can'
 
 ## She is a Good Communicator
 
-Jennifer Wexton is strong on social media. She has a couple thousand followers on [Twitter](https://twitter.com/SenatorWexton) and Facebook (https://www.facebook.com/SenatorWexton) with more to come after you finish reading this article. Many of the potential challengers we looked into had little to no social media presence.
+Jennifer Wexton is strong on social media. She has a couple thousand followers on [Twitter](https://twitter.com/SenatorWexton) and [Facebook](https://www.facebook.com/SenatorWexton) with more to come after you finish reading this article. Many of the potential challengers we looked into had little to no social media presence.
 
 ## She Marched With Us On January 21
 
