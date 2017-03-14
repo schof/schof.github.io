@@ -21,7 +21,7 @@ The CD-10 race just got very interesting yesterday as word leaked out that Virgi
 
 ## She is a Progressive
 
-Jennifer Wexton has a strong progressive record. Basically she is the opposite of Barbara Comstock and Donald Trump which is what voters are going to be looking for in 2018. A quick examination of her [previous campaign website](http://www.wextonforstatesenate.com/node/56) reveals that she is strong on:
+Jennifer Wexton has a strong progressive record. She is the opposite of Barbara Comstock and Donald Trump, which is what voters are going to be looking for in 2018. A quick examination of her [previous campaign website](http://www.wextonforstatesenate.com/node/56) reveals that she is strong on:
 
 * Health Care
 * Gun Safety & Mental Health
