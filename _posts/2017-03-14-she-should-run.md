@@ -5,6 +5,7 @@ date: 2017-03-14 00:00:00 +0000
 description: "Jennifer Wexton is considering a run for Barbara Comstock's Seat in Congress. Here's why you should help encourage her."
 snippet: "Jennifer Wexton is a fighter and she knows how to win. We need your help to encourage her to take the next step and run for Congress against Barbara Comstock."
 image: jennifer-wexton.png
+redirect_from: '/she-shoud-run'
 ---
 
 The CD-10 race just got very interesting yesterday as word leaked out that Virginia State Senator Jennifer Wexton is [being recruited](http://www.wextonforstatesenate.com/jennifers-bio) to run against Barbara Comstock next year. We need everyone who is fighting for a better future to help convince her that **she should run!**
