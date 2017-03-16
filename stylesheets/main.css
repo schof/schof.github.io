@@ -747,9 +747,10 @@ footer {
   font-size: 12px;
   padding-top: 10px;
   padding-bottom: 10px;
-  margin-bottom: 20px;
   background: #585450;
   color: #F6F6F3;
-  max-width: 980px;
-  text-align: center;
+  width: 100%;
+  display: inline-block;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }

@@ -85,7 +85,11 @@ We'll be upgrading our website soon so that people can use it to find all of the
 
 ## What type of organization is Dump Comstock?
 
-Right now it's just an unofficial group of volunteers working together for a common cause. We are currently exploring various options to transform ourselves officially into a non-profit, PAC, etc.
+Dump Comstock is an all volunteer grassroots organization. Raising and spending money related to federal elections is tightly regulated by the Federal Elections Commission (FEC). Some members of Dump Comstock have also set up a Super PAC called Take Back the Tenth. The Super PAC exists to accept donations which are needed to fund Dump Comstock activities.
+
+## Is any money used to support candidates?
+
+No. Take Back the Tenth does not support individual candidates.
 
 ## Are you part of the Indivisible Organization?
 
