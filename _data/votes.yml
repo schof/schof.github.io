@@ -6,6 +6,14 @@
 #   comstock_vote: "Yes"
 #   comstock_url:
 
+- date: March 16
+  bill: Giving the secretary of veterans affairs more flexibility to discipline employees
+  bill_url: https://www.congress.gov/bill/115/house-bill/1259
+  trump_position: "Supports"
+  trump_url: http://www.foxnews.com/opinion/2017/03/01/va-secretary-david-shulkin-our-plan-to-deliver-greater-accountability-to-americas-veterans.html
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/168
+  
 - date: March 8
   bill: Department of Defense Appropriations Act
   bill_url: https://www.congress.gov/bill/115/house-bill/1301
