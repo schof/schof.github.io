@@ -1,9 +1,9 @@
 ---
 layout: news_post
 title: Tell Barbara Comstock to Do Her Job
-date: 2017-03-20 00:00:00 +0000
-description: "Holding town hall meetings is an important part of her job. We're raising money for a billboard to remind her of that fact."
-snippet: "Holding town hall meetings is an important part of her job. We're raising money for a billboard to remind her of that fact."
+date: 2017-03-21 00:00:00 +0000
+description: "Holding town hall meetings is an important part of her job. We're raising money for a billboard to remind everyone of that fact."
+snippet: "Holding town hall meetings is part of her job. We're raising money for a billboard to remind everyone of that fact."
 image: do-you-job-billboard.png
 ---
 
