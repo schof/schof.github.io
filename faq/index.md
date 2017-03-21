@@ -89,7 +89,7 @@ Dump Comstock is an all volunteer grassroots organization. Raising and spending 
 
 ## Is any money used to support candidates?
 
-No. Take Back the Tenth does not support individual candidates.
+No. Take Back the Tenth does not support individual candidates. You donation will be used exclusively for activities related to opposing Barbara Comstock.
 
 ## Are you part of the Indivisible Organization?
 
