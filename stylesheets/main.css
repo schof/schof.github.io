@@ -226,6 +226,7 @@ div.post h3 a:hover { text-decoration: underline; }
   display: table-cell;
   vertical-align: top;
   width: 30%;
+  clear: both;
 }
 
 #sidebar {
@@ -615,6 +616,7 @@ div.event-post h2 {
 }
 
 span.event-date {
+  clear: both;
   float: left;
   width: 125px;
 }
@@ -669,8 +671,8 @@ time.icon strong
   top: 0;
   padding: 0.4em 0;
   color: #fff;
-  background-color: #CC342D;
-  border-bottom: 1px dashed #CC342D;
+  background-color: #445488;
+  border-bottom: 1px dashed #445488;
   box-shadow: 0 2px 0 #f0f0f0;
 }
 
@@ -763,4 +765,24 @@ a#thermometer {
   float: right;
   padding-left: 20px;
   padding-bottom: 20px;
+}
+
+h2.voter-listing {
+  margin-bottom: 20px;
+}
+
+a.rsvp-link {
+  background: #CC342D;
+  background-size: 30px 25px;
+  color: #ffffff;
+  padding: 8px 20px 8px 20px;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+  margin: 15px 3px 0 0;
+  text-shadow: none;
+  border: 2px solid #9b1c16;
+  display: inline-block;
+  border-radius: 6px;
+  box-shadow: 0 2px 0 #9b1c16;
 }

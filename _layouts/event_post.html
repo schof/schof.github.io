@@ -4,34 +4,6 @@ layout: default
 
 <div id="content-wrapper">
   <div id="content" class='event-post'>
-    <h1>{{page.title}}</h1>
-    <h2>{{page.location}}</h2>
-    <p><img class='news' src='{{site.url}}/images/events/{{page.image}}' alt='{{page.title}}'/></p>
-    <span class='event-date'>
-      <time datetime="2017-03-11" class="icon">
-        <em>{{ page.day-of-week }}</em>
-        <strong>{{ page.month }}</strong>
-        <span>{{ page.day }}</span>
-      </time>
-    </span>
-    <span id='event-details'>
-      <div id='event-time'>
-        <div class='event-icon'><i class="fa fa-clock-o fa-fw"></i></div>
-        <div class='event-info'>{{ page.time }} - {{ page.end }}</div>
-      </div>
-      <div id='event-location'>
-        <div class='event-icon'><i class="fa fa-map-marker fa-fw"></i></div>
-        <div class='event-info'>{{ page.address }}</div>
-      </div>
-      <div id='event-location'>
-        <div class='event-icon'><i class="fa fa-pencil-square-o fa-fw"></i></div>
-        <div class='event-info'>{{ page.action }}</div>
-      </div>
-    </span>
-
-    <div id='event-signup'>
-      {{ content }}
-    </div>
 
     {% if page.actionslug %}
       <link href='https://actionnetwork.org/css/style-embed.css' rel='stylesheet' type='text/css' />

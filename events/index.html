@@ -9,7 +9,7 @@ description: Learn more about the events we have scheduled in Comstock\'s Distri
 {% for event in events %}
 
 <div class='event'>
-  <h2><a href='{{event.url}}'>{{ event.title }}</a></h2>
+  <h2 class='voter-listing'>{{ event.title }}</h2>
   <span class='event-date'>
     <time datetime="2017-03-11" class="icon">
       <em>{{ event.day-of-week }}</em>
@@ -31,5 +31,6 @@ description: Learn more about the events we have scheduled in Comstock\'s Distri
       <div class='event-info'>{{ event.action }}</div>
     </div>
   </span>
+  <a href='{{event.url}}' class='rsvp-link'>RSVP</a>
 </div>
 {% endfor %}
