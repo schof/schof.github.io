@@ -6,12 +6,11 @@ description: "Holding town hall meetings is an important part of her job. We're 
 snippet: "Holding town hall meetings is part of her job. We're raising money for a billboard to remind everyone of that fact."
 image: do-your-job-billboard.png
 ---
+{% include promotion.html %}
 
 Meeting in person with your constituents is a key job requirement for a Congressional representative. Unfortunately for voters, Barbara Comstock doesn't like talking to them. If you live in the 10th Congressional District you're probably well aware of the fact that Barbara Comstock does not like to attend [town halls](https://secure.politico.com/story/2017/02/barbara-comstock-no-attend-weekend-town-hall-234490). In fact, we did some digging, and it turns out that Comstock has [never held a town hall](https://dumpcomstock.com/comstock-has-never-held-a-town-hall/).
 
 Since Barbara Comstock doesn't want to fulfill a key duty of her job, it's time someone remind her. That's why we're planning on putting up a billboard in her district as a very public reminder to all of the voters in her district.
-
-{% include promotion.html %}
 
 We've found a billboard just outside of Winchester City that is **available right now**. In just a few short weeks, fourteen thousand people will have the pleasure of driving by this beautiful sign every day.
 
