@@ -10,6 +10,7 @@ day-of-week: Sunday
 month: April
 day: 9
 time: 12:00 PM
+end: 3:00 PM
 address: 4000 Stringfellow Road, Chantilly, VA 20151
 date: 2017-04-09
 actionslug: coming-after-comstock-canvassing

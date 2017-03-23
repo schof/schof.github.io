@@ -10,6 +10,7 @@ day-of-week: Saturday
 month: March
 day: 25
 time: 12:00 PM
+end: 3:00 PM
 address: 7550 Reservation Drive, Springfield, VA 22153
 date: 2017-03-25
 actionslug: leesburg-voter-outreach-event
