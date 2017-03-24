@@ -2,8 +2,8 @@
 layout: news_post
 title: Barbara Comstock is Running Scared
 date: 2017-03-22 00:00:00 +0000
-description: ""
-snippet: ""
+description: "Barbara Comstock just did the thing she hates the most - she finally told the public how she plans to vote on something."
+snippet: "Barbara Comstock just did the thing she hates the most - she finally told the public how she plans to vote on something."
 image: comstock-ryan.jpg
 ---
 
