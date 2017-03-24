@@ -11,7 +11,7 @@ month: March
 day: 25
 time: 12:00 PM
 end: 3:00 PM
-address: 7550 Reservation Drive, Springfield, VA 22153
+address: 241 Fort Evans Rd NE, Leesburg, VA 20176
 date: 2017-03-25
 actionslug: leesburg-voter-outreach-event
 active: true
