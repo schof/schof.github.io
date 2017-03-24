@@ -13,6 +13,6 @@ time: 9:00 AM
 end: 12:00 PM
 address: 22000 Dulles Retail Plaza, Sterling, VA 20166
 date: 2017-04-08
-actionslug: leesburg-voter-outreach-event
+actionslug: voter-outreach
 active: true
 ---
