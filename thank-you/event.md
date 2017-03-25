@@ -3,10 +3,10 @@ layout: faq
 title: Thanks for Registering
 ---
 
-## Please Check Your Email
+## No Experience Necessary
 
-You should receive an email from us with additional details about the event. Please do not respond to the automated email since we will not be able to receive it.
+Thank you for signing up for the event. Most of our volunteers have no prior political experience so if you're new to this you're not alone.
 
-## Confirmation the Day Before
+## Next Steps
 
-The event leader will send you a direct email from their personal account the night before the event with any last minute details you need to be aware of. If you cannot make the event please let us know at that time so we can get an accurate headcount.
+Your team leader will be sending you an email with additional details a few days before the event. We can't wait to see you out in the field!

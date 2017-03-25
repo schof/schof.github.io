@@ -13,9 +13,28 @@ resource :iamrole, 'AWS::IAM::Role' do
     ]
   )
   managed_policy_arns [
-    # 'arn:aws:iam::aws:policy/service-role/AmazonEC2RoleforSSM', # SSM for deploys
+    'arn:aws:iam::aws:policy/service-role/AmazonEC2RoleforSSM',   # SSM for deploys
     'arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryReadOnly', # pull docker images
   ]
+  policies(
+    [
+      {
+        PolicyName: 'SSM-Agent',
+        PolicyDocument: {
+          Version: '2012-10-17',
+          Statement: [
+            {
+              Effect: 'Allow',
+              Action: [
+                'ssm:ListInstanceAssociations', # agent seems to need this now
+              ],
+              Resource: '*'
+            }
+          ]
+        }
+      }
+    ]
+  )
 end
 
 ## need this for launch config to reference

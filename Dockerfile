@@ -22,7 +22,7 @@ RUN bundle install
 #--without development test
 
 ADD . /app/
-RUN bundle exec jekyll build
+RUN bundle exec jekyll build --future
 COPY config/nginx.conf /etc/nginx/nginx.conf
 
 ## TODO replace with nginx

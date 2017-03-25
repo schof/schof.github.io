@@ -1,0 +1,71 @@
+#cloud-config
+write_files:
+  - path: /etc/ops
+    content: |
+      AWS_REGION=<%= ENV['AWS_REGION'] %>
+coreos:
+  units:
+  - name: web.service
+    command: start
+    content: |
+      [Unit]
+      Description=Dumpcomstock web page
+      Requires=docker.service
+      After=docker.service
+      [Service]
+      TimeoutStartSec=0
+      Environment=AWS_REGION=<%= ENV['AWS_REGION'] %>
+      Environment=REGISTRY=<%= parameters[:registry] %>
+      ExecStartPre=/bin/bash -c 'eval $(docker run -e AWS_REGION rlister/ecr-login:latest)'
+      ExecStartPre=-/usr/bin/docker rm %p
+      ExecStartPre=/usr/bin/docker pull ${REGISTRY}/dumpcomstock:latest
+      ExecStart=/bin/bash -c "/usr/bin/docker run \
+        --name %p \
+        --add-host invite:$$(ifconfig docker0 | awk '/\\<inet\\>/ {print $2}') \
+        -p 80:80\
+        ${REGISTRY}/dumpcomstock:latest"
+      ExecStop=/usr/bin/docker stop %p
+      Restart=on-failure
+      RestartSec=60
+  - name: invite.service
+    command: start
+    content: |
+      [Unit]
+      Description=Slack auto-invite
+      Requires=docker.service
+      After=docker.service
+      [Service]
+      TimeoutStartSec=0
+      Environment=SLACK_ORG=dumpcomstock
+      Environment=SLACK_TOKEN=xoxp-139109594981-149132188496-149770678691-1a4876f7ed2139dbc84a1a6a911b02de
+      ExecStartPre=-/usr/bin/docker rm %p
+      ExecStartPre=/usr/bin/docker pull chk1/slackin
+      ExecStart=/usr/bin/docker run \
+        --name %p \
+        -e SLACK_ORG \
+        -e SLACK_TOKEN \
+        -p 3000:3000 \
+        chk1/slackin
+      ExecStop=/usr/bin/docker stop %p
+      Restart=on-failure
+      RestartSec=60
+  - name: ssm.service
+    command: start
+    content: |-
+      [Unit]
+      Description=AWS SSM agent
+      [Service]
+      TimeoutStartSec=0
+      User=core
+      ExecStartPre=/usr/bin/docker pull rlister/amazon-ssm-agent:latest
+      ExecStartPre=-/usr/bin/docker rm %p
+      ExecStart=/usr/bin/docker run --name %p \
+        -h %H \
+        -v /var/run/dbus:/var/run/dbus \
+        -v /run/systemd:/run/systemd \
+        -v /etc/sha:/etc/sha \
+        -v /var/log/journal:/var/log/journal \
+        rlister/amazon-ssm-agent:latest
+      ExecStop=/usr/bin/docker stop %p
+      Restart=on-failure
+      RestartSec=60

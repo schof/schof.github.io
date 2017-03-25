@@ -1,4 +1,4 @@
-description 'VPC stack'
+description 'DumpComstock VPC stack'
 
 parameter :cidr, default: '10.0.0.0/16', description: 'CIDR block for VPC; should have no need to change this'
 
@@ -12,8 +12,8 @@ mappings(
 )
 
 include_template(
-  'dc-vpc/vpc.rb',
-  'dc-vpc/subnets.rb',
+  'vpc/vpc.rb',
+  'vpc/subnets.rb',
   # 'vpc/security_groups.rb',
   # 'vpc/iam-packer.rb',
   # 'vpc/iam-ecs.rb',

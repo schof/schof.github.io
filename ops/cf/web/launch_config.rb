@@ -6,9 +6,10 @@ require 'base64'
 resource :lc, 'AWS::AutoScaling::LaunchConfiguration' do
   image_id Fn::ref(:ami)
   instance_type 't2.nano'
-  key_name 'ric'
+  key_name Fn::ref('AWS::StackName')
   security_groups [
     Fn::ref(:sgssh),
+    Fn::ref(:sghttp),
   ]
   associate_public_ip_address true
   block_device_mappings [

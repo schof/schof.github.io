@@ -506,7 +506,7 @@ h1 {
 img.news {
   padding-top: 10px;
   padding-bottom: 10px;
-  max-width: 600px;
+  max-width: 100%;
 }
 
 a.read-more {
@@ -604,10 +604,19 @@ div#promotion {
 div.event-post h1 {
   clear: left;
   padding-top: 20px;
+  padding-bottom: 0px;
   color: #445488;
 }
 
+div.event-post h2 {
+  clear: left;
+  padding: 0px;
+  margin-top: 0px;
+  /*line-height: 20px;*/
+}
+
 span.event-date {
+  clear: both;
   float: left;
   width: 125px;
 }
@@ -624,6 +633,13 @@ div.event-info {
 
 div.event-time {
   display: table-cell;
+}
+
+div.event {
+  display: block;
+  float: left;
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
 
 time.icon
@@ -655,8 +671,8 @@ time.icon strong
   top: 0;
   padding: 0.4em 0;
   color: #fff;
-  background-color: #CC342D;
-  border-bottom: 1px dashed #CC342D;
+  background-color: #445488;
+  border-bottom: 1px dashed #445488;
   box-shadow: 0 2px 0 #f0f0f0;
 }
 
@@ -763,4 +779,46 @@ div#candidate-highlights {
 a.read-more-candidate {
   float: right;
   padding-bottom: 30px;
+}
+
+footer {
+  font-size: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #585450;
+  color: #F6F6F3;
+  width: 100%;
+  display: inline-block;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+footer a {
+  color: white;
+}
+
+a#thermometer {
+  float: right;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+h2.voter-listing {
+  margin-bottom: 20px;
+}
+
+a.rsvp-link {
+  background: #CC342D;
+  background-size: 30px 25px;
+  color: #ffffff;
+  padding: 8px 20px 8px 20px;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
+  margin: 15px 3px 0 0;
+  text-shadow: none;
+  border: 2px solid #9b1c16;
+  display: inline-block;
+  border-radius: 6px;
+  box-shadow: 0 2px 0 #9b1c16;
 }

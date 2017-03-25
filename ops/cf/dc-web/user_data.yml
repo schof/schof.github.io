@@ -1,5 +1,0 @@
-#cloud-config
-write_files:
-  - path: /etc/ops
-    content: |
-      AWS_REGION=<%= ENV['AWS_REGION'] %>

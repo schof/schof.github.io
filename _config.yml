@@ -39,9 +39,11 @@ locales:
       - text: Voting Record
         url:  /voting-record
       - text: Resources
-        url:  /resources        
+        url:  /resources
       - text: Get Involved
         url:  /get-involved
+      - text: Donate
+        url:  https://secure.actblue.com/contribute/page/dumpcomstock
       - text: FAQ
         url:  /faq
 
