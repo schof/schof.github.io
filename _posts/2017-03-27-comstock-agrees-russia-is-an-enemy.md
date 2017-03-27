@@ -2,8 +2,8 @@
 layout: news_post
 title: Comstock Finally Says Something About Russia
 date: 2017-03-22 00:00:00 +0000
-description: ""
-snippet: ""
+description: "The Dump Comstock team spotted Comstock outside her district in Reston, VA and she had some interesting things to say on Russia."
+snippet: "The Dump Comstock team spotted Comstock outside her district in Reston, VA and she had some interesting things to say on Russia."
 image: comstock-closes-the-door.png
 ---
 
