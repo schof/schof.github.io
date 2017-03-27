@@ -2,12 +2,12 @@
 layout: news_post
 title: Comstock Finally Says Something About Russia
 date: 2017-03-22 00:00:00 +0000
-description: "The Dump Comstock team spotted Comstock outside her district in Reston, VA and she had some interesting things to say on Russia."
-snippet: "The Dump Comstock team spotted Comstock outside her district in Reston, VA and she had some interesting things to say on Russia."
+description: "The Dump Comstock team spotted Comstock outside her district in Reston, VA and she had some interesting things to say about Russia."
+snippet: "The Dump Comstock team spotted Comstock outside her district in Reston, VA and she had some interesting things to say about Russia."
 image: comstock-closes-the-door.png
 ---
 
-Barbara Comstock is hard to find these days but the Dump Comstock team spotted her visiting a company in Reston, VA (not in her district by the way). No word on what she was doing there but the company's PAC donated $1,000 to her campaign last year so maybe she was coming to say "thank you". Not a huge surprise really since **[sixty percent](https://www.opensecrets.org/politicians/geog.php?cycle=2016&cid=N00036023&type=I) of her contributions come from outside her district**.
+Barbara Comstock is hard to find these days, but the Dump Comstock team spotted her visiting a company in Reston, VA (not in her district by the way). No word on what she was doing there but the company's PAC donated $1,000 to her campaign last year so maybe she was coming to say "thank you". Not a huge surprise really since **[sixty percent](https://www.opensecrets.org/politicians/geog.php?cycle=2016&cid=N00036023&type=I) of her contributions come from outside her district**.
 
 Since Comstock doesn't have a public schedule she was a little surprised to see a constituent of hers in the lobby. Things started out well enough with Comstock even agreeing to shake her hand.
 
