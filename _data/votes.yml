@@ -6,6 +6,22 @@
 #   comstock_vote: "Yes"
 #   comstock_url:
 
+- date: March 22
+  bill: Allowing small businesses to provide insurance through trade and professional associations
+  bill_url: https://www.congress.gov/bill/115/house-bill/1101
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/03/21/hr-1101-%E2%80%93-small-business-health-fairness-act-2017
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/186
+  
+- date: March 22
+  bill: Removing antitrust exemption for insurance providers
+  bill_url: https://www.congress.gov/bill/115/house-bill/372
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/03/21/hr-372-competitive-health-insurance-reform-act-2017
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/184
+  
 - date: March 16
   bill: Giving the secretary of veterans affairs more flexibility to discipline employees
   bill_url: https://www.congress.gov/bill/115/house-bill/1259
