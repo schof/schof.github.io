@@ -1,3 +1,5 @@
+require_relative 'cloudflare'
+
 module Stax
   class Stack
     no_commands do
