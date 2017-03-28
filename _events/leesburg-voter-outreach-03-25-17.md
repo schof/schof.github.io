@@ -14,5 +14,5 @@ end: 3:00 PM
 address: 241 Fort Evans Rd NE, Leesburg, VA 20176
 date: 2017-03-25
 actionslug: leesburg-voter-outreach-event
-active: true
+active: false
 ---
