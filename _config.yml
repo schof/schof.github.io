@@ -40,8 +40,8 @@ locales:
         url:  /voting-record
       - text: Resources
         url:  /resources
-      - text: Get Involved
-        url:  /get-involved
+      - text: Events
+        url:  /events
       - text: Donate
         url:  https://secure.actblue.com/contribute/page/dumpcomstock
       - text: FAQ
