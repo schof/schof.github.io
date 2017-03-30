@@ -6,6 +6,14 @@
 #   comstock_vote: "Yes"
 #   comstock_url:
 
+- date: March 28
+  bill: Repeal of an FCC rule barring internet providers from sharing data on customers' activities
+  bill_url: https://www.congress.gov/bill/115/senate-joint-resolution/34
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/03/28/statement-administration-policy-sjres-34-%E2%80%93-disapproving-federal
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/202
+  
 - date: March 22
   bill: Allowing small businesses to provide insurance through trade and professional associations
   bill_url: https://www.congress.gov/bill/115/house-bill/1101
