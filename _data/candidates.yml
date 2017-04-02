@@ -1,7 +1,15 @@
+- name: John Bell
+  image: john-bell.png
+  position: Virginia House Delegate
+  home: South Riding, VA
+  previous:
+    - Major U.S. Airforce (Retired)
+  highlights:
+    -
 - name: Jennifer Wexton
   image: jennifer-wexton.jpg
   position: Virginia State Senator
-  home: Loudoun County
+  home: Leesburg, VA
   previous:
     - Prosecutor Loudoun County
   highlights:
