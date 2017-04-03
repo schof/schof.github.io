@@ -14,5 +14,5 @@ end: 3:00 PM
 address: "6317 Georgetown Pike #2, McLean, VA 22101"
 date: 2017-04-01
 actionslug: voter-outreach-mclean-va
-active: true
+active: false
 ---
