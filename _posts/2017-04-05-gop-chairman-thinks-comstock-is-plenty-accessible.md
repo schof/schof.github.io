@@ -29,6 +29,6 @@ Fourth, the event was at the Hilton in Tyson's Corner. Once again not inside Bar
 
 ![Comstock outside the district](/images/news/tysons-event.png)
 
-Why is the Chairman of the Virginia GOP so eager to talk about how accessible Barbara Comstock is anyways? Probably because videos like this reveal the real Barbara Comstock as someone who can't be bothered to talk to her constituents:
+Why is the Chairman of the Virginia GOP so eager to talk about how Barbara Comstock is totally not hiding? Probably because videos like this reveal the real Barbara Comstock as someone who can't be bothered to talk to her constituents:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65AKfqbjnik" frameborder="0" allowfullscreen></iframe>
