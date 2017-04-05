@@ -2,8 +2,8 @@
 layout: news_post
 title: Virginia GOP Chairman Says Comstock is Totally Not in Hiding
 date: 2017-04-05 00:00:00 +0000
-description: ""
-snippet: ""
+description: "VA GOP Chairman cites unannounced $150 fundraiser outside her district as proof that Comstock is totally not hiding from her constituents."
+snippet: "VA GOP Chairman cites unannounced $150 fundraiser outside her district as proof that Comstock is totally not hiding from her constituents."
 image: tysons-event.png
 ---
 
