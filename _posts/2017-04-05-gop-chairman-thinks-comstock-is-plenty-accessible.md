@@ -23,7 +23,7 @@ Second, this was a $150 per person fundraiser.
 
 ![Fundraiser costs $150 per person](/images/news/korean-fundraiser.png)
 
-Third, it was never announced by Barbara Comstock so even if you wanted to pay $150 to talk to her you wouldn't have know about the opportunity.
+Third, it was never announced by Barbara Comstock so even if you wanted to pay $150 to talk to her you wouldn't have known about the opportunity.
 
 Fourth, the event was at the Hilton in Tyson's Corner. Once again not inside Barbara Comstock's district!
 
