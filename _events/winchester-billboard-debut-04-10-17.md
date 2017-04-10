@@ -8,9 +8,9 @@ description: "Join us for a media event where we will be celebrating our crowdfu
 day-of-week: Monday
 month: April
 day: 10
-time: TBD
-end:
-address: Winchester, VA
+time: 12:00 PM
+end: 1:00 PM
+address: 781 Front Royal Pike, Winchester, VA
 date: 2017-04-10
 actionslug: comstock-billboard-debut
 form: true
