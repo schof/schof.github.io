@@ -13,5 +13,5 @@ end: 4:00 PM
 address: 20 Loudoun St., Winchester, VA 22611
 date: 2017-04-08
 actionslug: winchester-voter-outreach
-active: true
+active: false
 ---
