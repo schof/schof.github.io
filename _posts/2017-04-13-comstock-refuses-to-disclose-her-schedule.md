@@ -1,12 +1,15 @@
 ---
 layout: news_post
 title: "Comstock Refuses to Disclose Her Schedule"
-date: 2017-04-02 00:00:00 +0000
-description:
-snippet:
-image:
+date: 2017-04-13 00:00:00 +0000
+description: "Comstock's office claims that she is 'ever present' in her district but won't provide any proof."
+snippet: "Comstock's office claims that she is 'ever present' in her district but won't provide any proof."
+image: putting-on-the-ritz.jpg
 ---
 
+In a recent [Politico article](https://secure.politico.com/story/2017/03/barbara-comstock-2018-seat-health-care-bill-236537) Comstock's deputy chief of staff denied that she was avoiding constituents and claimed that she was "ever present in her district".
+
+Lynn Anderson thought that claim was a little strange so she reached out to Comstock's office for clarification.  
 
 ```
 From: Lynn Anderson [mailto:REDACTED]
@@ -29,3 +32,5 @@ Best Regards,
 
 Lynn Anderson
 ```
+
+She never received a response. Not even one of the lame form letters she specializes in sending.
