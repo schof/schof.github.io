@@ -14,5 +14,5 @@ end: 12:00 PM
 address: 778 Walker Rd, Great Falls, VA 22066
 date: 2017-04-08
 actionslug: voter-outreach
-active: true
+active: false
 ---
