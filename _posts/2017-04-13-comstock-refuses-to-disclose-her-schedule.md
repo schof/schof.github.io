@@ -7,7 +7,7 @@ snippet: "Comstock's office claims that she is 'ever present' in her district bu
 image: putting-on-the-ritz.jpg
 ---
 
-In a recent [Politico article](https://secure.politico.com/story/2017/03/barbara-comstock-2018-seat-health-care-bill-236537) Comstock's deputy chief of staff denied that she was avoiding constituents and claimed that she was "ever present in her district".
+In a recent [Politico article](https://secure.politico.com/story/2017/03/barbara-comstock-2018-seat-health-care-bill-236537)   Comstock's deputy chief of staff denied that she was avoiding constituents and claimed that she was "ever present in her district".
 
 Lynn Anderson thought that claim was a little strange so she reached out to Comstock's office for clarification.  
 
@@ -33,4 +33,4 @@ Best Regards,
 Lynn Anderson
 ```
 
-She never received a response. Not even one of the lame form letters she specializes in sending.
+She never received a response. Not even one of the lame form letters Comstock specializes in sending.
