@@ -9,7 +9,7 @@ image: pyramids.jpeg
 
 Barbara Comstock's constituents have been complaining for months about her refusal to hold an in-person town hall. She has received criticism for turning up in Reston, VA and other places outside her district. Faced with mounting pressure due to her conspicuous absence, Comstock did what any reasonable person would do in her situation - she booked a [trip to Egypt](https://www.washingtonpost.com/local/virginia-politics/rep-barbara-comstock-among-delegation-in-egypt-when-bombings-occurred/2017/04/09/418dc288-1d58-11e7-a0a7-8b2a45e3dc84_story.html?utm_term=.d6ac06b1f8b8)!
 
-You may be asking yourself, "What on earth is Barbara Comstock" doing in Egypt? Well if you follow the Virginia GOP on Twitter you'll hear a variety of explanations.
+You may be asking yourself, "What on earth is Barbara Comstock doing in Egypt?" Well if you follow the Virginia GOP on Twitter you'll hear a variety of explanations.
 
 First, according to the GOP Chairman, she was going to Church:
 
@@ -37,4 +37,4 @@ Finally we have gotten to the latest GOP rationale, which is essentially that "b
 
 This may come as a shock to people but we're actually against taxpayer funded photo ops regardless of who is wasting the money. So it seems the Virginia GOP has conceded that this has nothing to do with counter-terrorism - it's just "business as usual."
 
-The only question that remains is whose idea was it to send such a unqualified person to Egypt? Was this Trump's idea or did Comstock, never one to turn down a photo op outside her district, simply volunteer herself? 
+The only question that remains is whose idea was it to send such a unqualified person to Egypt? Was this Trump's idea or did Comstock, never one to turn down a photo op outside her district, simply volunteer herself?
