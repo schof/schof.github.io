@@ -2,8 +2,8 @@
 layout: news_post
 title: "Barbara Comstock has a United Airlines Problem"
 date: 2017-04-16 00:00:00 +0000
-description: ""
-snippet: ""
+description: "Comstock accepted $10,000 from them last cycle which may be why she has remained silent."
+snippet: "Comstock accepted $10,000 from them last cycle which may be why she has remained silent."
 image: united-comstock.jpg
 ---
 
