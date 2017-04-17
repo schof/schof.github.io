@@ -4,7 +4,7 @@ title: "Barbara Comstock has a United Airlines Problem"
 date: 2017-04-16 00:00:00 +0000
 description: "Comstock accepted $10,000 from them last cycle which may be why she has remained silent."
 snippet: "Comstock accepted $10,000 from them last cycle which may be why she has remained silent."
-image: united-comstock.jpg
+image: united-comstock-invitation.jpg
 ---
 
 Last week's top news story was about a man who was [forcibly removed](https://www.washingtonpost.com/news/dr-gridlock/wp/2017/04/10/a-man-wouldnt-leave-an-overbooked-united-flight-so-he-was-dragged-off-battered-and-limp/?utm_term=.62064dac5bcb&tid=a_inl) from an overbooked United Airlines flight even though he had already been given a seat. The airport police used excessive force while removing him and he suffered non-trivial injuries.
