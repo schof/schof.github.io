@@ -3,14 +3,6 @@ layout: page
 title: Meet the Candidates
 ---
 
-
-<div id='promotion'>
-  <h3>None of These Candidates have Announced Yet</h3>
-  This list was put together after interviewing numerous Democratic officials within the 10th Congressional District.
-  None of these candidates have suggested publicily or privately that they are considering a run. It is still too early for candidates to announce their
-  intentions but that doesn't stop us from learning more about them while we wait.
-</div>
-
 {% for candidate in site.data.candidates %}
 <div class='candidate'>
   <img src='{{site.url}}/images/candidates/{{candidate.slug}}.jpg' class='candidate'/>
@@ -34,6 +26,6 @@ title: Meet the Candidates
     {% endfor %}
     </ul>
   </div>
-  <a href='#' class='read-more-candidate'>Read More</a>
+  <a href='/candidates/{{candidate.slug}}/' class='read-more-candidate'>Read More</a>
 </div>
 {% endfor %}
