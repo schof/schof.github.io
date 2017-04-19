@@ -1,4 +1,5 @@
 - name: Kimberly Adams
+  slug: kimberly-adams
   image:
   position:
   home:
@@ -7,6 +8,7 @@
   highlights:
     -
 - name: Dan Helmer
+  slug: dan-helmer
   image:
   position:
   home:
@@ -14,7 +16,8 @@
     -
   highlights:
     -
-- name: Lindsey Davis-Stover
+- name: Lindsey Stover
+  slug: lindsey-stover
   image:
   position:
   home:
