@@ -1,13 +1,29 @@
-- name: John Bell
-  image: john-bell.png
-  position: Virginia House Delegate
-  home: South Riding, VA
+- name: Kimberly Adams
+  image:
+  position:
+  home:
   previous:
-    - Major U.S. Airforce (Retired)
+    -
+  highlights:
+    -
+- name: Dan Helmer
+  image:
+  position:
+  home:
+  previous:
+    -
+  highlights:
+    -
+- name: Lindsey Davis-Stover
+  image:
+  position:
+  home:
+  previous:
+    -
   highlights:
     -
 - name: Jennifer Wexton
-  image: jennifer-wexton.jpg
+  slug: jennifer-wexton
   position: Virginia State Senator
   home: Leesburg, VA
   previous:
@@ -16,13 +32,3 @@
     - Proved she can win big in Loudoun County
     - Passed several important bills in the Republican dominated VA legislature
     - Raised over $1M for a competitive State Senate race
-- name: Kristen Ulmstattd
-  image: kristen-ulmstattd.png
-  position: Leesburg District Supervisor
-  home: Loudoun County
-  previous:
-    - Leesburg Town Council
-  highlights:
-    - Former intelligence officer with the CIA
-    - Former Lieutenant in the U.S. Naval Reserve
-    - Former Mayor of Leesburg

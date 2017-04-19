@@ -13,8 +13,8 @@ title: Meet the Candidates
 
 {% for candidate in site.data.candidates %}
 <div class='candidate'>
-  <img src='{{site.url}}/images/candidates/{{candidate.image}}' class='candidate'/>
-  <h3><b>{{ candidate.name }}</b></h3>
+  <img src='{{site.url}}/images/candidates/{{candidate.slug}}.jpg' class='candidate'/>
+  <h3><b><a href="/candidates/{{candidate.slug}}/">{{ candidate.name }}</a></b></h3>
   {{candidate.position}}
   <p><em>{{candidate.home}}</em></p>
   <div id='candidate-background'>
