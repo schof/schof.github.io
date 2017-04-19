@@ -1,30 +1,15 @@
-- name: Kimberly Adams
-  slug: kimberly-adams
-  image:
-  position:
-  home:
-  previous:
-    -
-  highlights:
-    -
+
 - name: Dan Helmer
   slug: dan-helmer
-  image:
-  position:
-  home:
+  position: Consultant
+  home: Springfield, VA
   previous:
-    -
+    - U.S. Army (Major)
   highlights:
-    -
-- name: Lindsey Stover
-  slug: lindsey-stover
-  image:
-  position:
-  home:
-  previous:
-    -
-  highlights:
-    -
+    - Military experience could be a plus in certain parts of the district
+    - Intelligence background
+    - Speaks Arabic
+    - Rhodes scholar
 - name: Jennifer Wexton
   slug: jennifer-wexton
   position: Virginia State Senator
@@ -35,3 +20,20 @@
     - Proved she can win big in Loudoun County
     - Passed several important bills in the Republican dominated VA legislature
     - Raised over $1M for a competitive State Senate race
+- name: Lindsey Stover
+  slug: lindsey-stover
+  position: Partner Edwards, Davis Stover & Associates
+  home:
+  previous:
+    - Department of Veterans Affairs
+  highlights:
+    -
+- name: Kimberly Adams
+  slug: kimberly-adams
+  position: School Teacher
+  home:
+  previous:
+    - President Fairfax County Education Association
+  highlights:
+    - Strong educational background
+    - Long time district resident
