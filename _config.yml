@@ -43,7 +43,7 @@ locales:
       - text: Events
         url:  /events
       - text: Donate
-        url:  https://secure.actblue.com/contribute/page/dumpcomstock
+        url:  https://secure.actblue.com/contribute/page/takebackthetenth
       - text: FAQ
         url:  /faq
 
