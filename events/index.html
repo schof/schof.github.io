@@ -6,19 +6,8 @@ description: "Learn more about the events we have scheduled in Comstock's Distri
 image: dumpcomstock-manassas.jpg
 ---
 
-<p>
-We held several canvas events in the first half of April. We do not have any events scheduled for the second half of April due to the large protest events scheduled in Washington, DC on those weekends.
-</p>
-
-<p>
-We are, however, looking to schedule new events for May. You do not need any previous political experience to help run one. Just pick a date and location and we'll walk you through everything.
-</p>
-
-<a href='/events/host/signup' class='rsvp-link'>Host Event</a>
-
 {% assign events = site.events | where:"active","true" | sort: 'date'%}
 {% for event in events %}
-<!--
 <div class='event'>
   <h2 class='voter-listing'>{{ event.title }}</h2>
   <span class='event-date'>
@@ -44,5 +33,4 @@ We are, however, looking to schedule new events for May. You do not need any pre
   </span>
   <a href='{{event.url}}' class='rsvp-link'>RSVP</a>
 </div>
--->
 {% endfor %}
