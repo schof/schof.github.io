@@ -1,7 +1,7 @@
 ---
 layout: news_post
 title: "This 'Constituent' Actually Works for Comstock"
-date: 2017-04-24 00:00:00 +0000
+date: 2017-04-25 00:00:00 +0000
 description: "Plot Twist: Constituent that Comstock points to in the infamous elevator video is actually one of her paid staffers."
 snippet: "Plot Twist: Constituent that Comstock points to in the infamous elevator video is actually one of her paid staffers."
 image: elevator-constituent.jpg
