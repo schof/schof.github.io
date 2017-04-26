@@ -2,8 +2,8 @@
 layout: news_post
 title: "Behind the Scenes at a Comstock Photo Op [VIDEO]"
 date: 2017-04-26 00:00:00 +0000
-description: "Comstock is caught staging a photo op outside her district. Watch as she explains who she is and where her district is located."
-snippet: "Comstock is caught staging a photo op outside her district. Watch as she explains who she is and where her district is located."
+description: "Comstock is caught staging a photo op outside her district. Watch as she explains where her district is located."
+snippet: "Comstock is caught staging a photo op outside her district. Watch as she explains where her district is located."
 image: vietnamese-new-year.jpg
 ---
 
