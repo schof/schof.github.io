@@ -5,7 +5,7 @@ location: Cascades Farmer's Market - Sterling, VA
 social-image:
 image: generic-event.png
 action: Volunteers needed to hand out flyers and sign up voters for our mailing list.
-day-of-week: Saturday
+day-of-week: Sunday
 month: May
 day: 7
 time: 9:00 AM
