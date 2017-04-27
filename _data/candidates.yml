@@ -1,4 +1,33 @@
-
+- name: Jennifer Wexton
+  slug: jennifer-wexton
+  position: Virginia State Senator
+  home: Leesburg, VA
+  previous:
+    - Prosecutor Loudoun County
+  highlights:
+    - Proved she can win big in Loudoun County
+    - Passed several important bills in the Republican dominated VA legislature
+    - Raised big money for a competitive State Senate race
+  website: http://jenniferwexton.com
+  facebook: https://www.facebook.com/JenniferTWexton/
+  twitter: https://twitter.com/JenniferWexton
+  date: April 20, 2017
+  announcement: https://www.washingtonpost.com/local/virginia-politics/democrat-jennifer-wexton-says-she-will-challenge-rep-barbara-comstock/2017/04/19/9d92fcf0-2538-11e7-bb9d-8cd6118e1409_story.html
+- name: Lindsey Stover
+  slug: lindsey-stover
+  position: Partner Edwards, Davis Stover & Associates
+  home:
+  previous:
+    - Department of Veterans Affairs
+  highlights:
+    - Helped to elect a Democrat in a very Republican district
+    - Served the Obama administration at the Department of Veterans Affairs
+    - Communications background
+  website: https://www.lindseyforcongress.com/
+  facebook: http://facebook.com/LindseyForUS
+  twitter: https://twitter.com/LindseyForUS
+  date: April 18, 2017
+  announcement: https://www.washingtonpost.com/local/virginia-politics/former-obama-administration-official-seeks-to-challenge-rep-comstock-in-northern-virginia/2017/04/18/724bd020-23b3-11e7-bb9d-8cd6118e1409_story.html
 - name: Dan Helmer
   slug: dan-helmer
   position: Consultant
@@ -13,32 +42,8 @@
   website: https://www.helmerforcongress.com/
   facebook: http://www.facebook.com/helmerva10
   twitter: https://twitter.com/helmerVA10
-- name: Jennifer Wexton
-  slug: jennifer-wexton
-  position: Virginia State Senator
-  home: Leesburg, VA
-  previous:
-    - Prosecutor Loudoun County
-  highlights:
-    - Proved she can win big in Loudoun County
-    - Passed several important bills in the Republican dominated VA legislature
-    - Raised big money for a competitive State Senate race
-  website: http://jenniferwexton.com
-  facebook: https://www.facebook.com/JenniferTWexton/
-  twitter: https://twitter.com/JenniferWexton
-- name: Lindsey Stover
-  slug: lindsey-stover
-  position: Partner Edwards, Davis Stover & Associates
-  home:
-  previous:
-    - Department of Veterans Affairs
-  highlights:
-    - Helped to elect a Democrat in a very Republican district
-    - Served the Obama administration at the Department of Veterans Affairs
-    - Communications background
-  website: https://www.lindseyforcongress.com/
-  facebook: http://facebook.com/LindseyForUS
-  twitter: https://twitter.com/LindseyForUS
+  date: April 11, 2017
+  announcement: https://www.washingtonpost.com/local/virginia-politics/army-veteran-and-rhodes-scholar-to-challenge-comstock-in-northern-virginia/2017/04/10/ef3f30aa-1e08-11e7-be2a-3a1fb24d4671_story.html
 - name: Kimberly Adams
   slug: kimberly-adams
   position: School Teacher
@@ -50,3 +55,5 @@
     - Long time district resident
   website: https://www.kimberlyadamsforcongress.com/
   twitter: https://twitter.com/KimberlyAdams
+  date: March 25, 2017
+  announcement: http://bluevirginia.us/2017/03/breaking-democrat-kimberly-adams-announces-rep-barbara-comstock-r-va-10

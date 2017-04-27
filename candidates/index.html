@@ -17,10 +17,16 @@ description: "Meet the candidates who are running against Barbara Comstock in 20
   </h3>
   {{candidate.position}}
   <p><em>{{candidate.home}}</em></p>
+  <div>
+    <a href='{{candidate.announcement}}' target='blank' rel='nofollow'>{{candidate.date}}</a>
+  </div>
   <div id='candidate-background'>
     <h4>Previous Position</h4>
     {{candidate.previous}}
   </div>
+  <!-- <p>
+    Announced: <a href='{{candidate.announcement}}' target='blank' rel='nofollow'>{{candidate.date}}</a>
+  </p> -->
   <div id onerror=""='candidate-highlights'>
     <h4>Highlights</h4>
     <ul>
