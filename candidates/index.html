@@ -1,22 +1,26 @@
 ---
 layout: page
-title: Meet the Challengers
+title: Meet the Comstock Challengers
+snippet: "Meet the candidates who are running against Barbara Comstock in 2018."
+description: "Meet the candidates who are running against Barbara Comstock in 2018."
+image: 'candidates.png'
 ---
 
 {% for candidate in site.data.candidates %}
 <div class='candidate'>
   <img src='{{site.url}}/images/candidates/{{candidate.slug}}-thumb.jpg' class='candidate'/>
-  <h3><b><a href="/candidates/{{candidate.slug}}/">{{ candidate.name }}</a></b></h3>
+  <h3>
+    <b><a href="{{candidate.website}}" target='blank' rel='nofollow'>{{ candidate.name }}</a></b>
+    {% if candidate.facebook %}
+    <a href='{{candidate.facebook}}' target='blank' rel='nofollow'><i class="fa fa-facebook fa-fw" aria-hidden="true"></i></a>
+    {% endif %}
+    <a href='{{candidate.twitter}}' target='blank' rel='nofollow'><i class="fa fa-twitter fa-fw" aria-hidden="true"></i></a>
+  </h3>
   {{candidate.position}}
   <p><em>{{candidate.home}}</em></p>
   <div id='candidate-background'>
     <h4>Previous Position</h4>
     {{candidate.previous}}
-    <!-- <ul class='candidate-background'>
-    {% for background in candidate.background %}
-      <li class='candidate-background'>{{background}}</li>
-    {% endfor %}
-    </ul> -->
   </div>
   <div id onerror=""='candidate-highlights'>
     <h4>Highlights</h4>
@@ -26,6 +30,5 @@ title: Meet the Challengers
     {% endfor %}
     </ul>
   </div>
-  <a href='/candidates/{{candidate.slug}}/' class='read-more-candidate'>Read More</a>
 </div>
 {% endfor %}
