@@ -2,8 +2,8 @@
 layout: news_post
 title: "Help Fund the Multimedia Dump Comstock Tour"
 date: 2017-05-01 00:00:00 +0000
-description: ""
-snippet: ""
+description: "Help fund our digital mobile billboard. We'll be using it to drive all over Comstock's district and educate the voters."
+snippet: "Help fund our digital mobile billboard. We'll be using it to drive all over Comstock's district and educate the voters."
 image: truck-social-preview.png
 ---
 
