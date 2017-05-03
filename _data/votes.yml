@@ -6,6 +6,14 @@
 #   comstock_vote: "Yes"
 #   comstock_url:
 
+- date: April 28
+  bill: Extension of government funding for one week
+  bill_url: https://www.congress.gov/bill/115/house-joint-resolution/99
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/04/27/daily-press-briefing-press-secretary-sean-spicer-42
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/236
+  
 - date: March 28
   bill: Repeal of an FCC rule barring internet providers from sharing data on customers' activities
   bill_url: https://www.congress.gov/bill/115/senate-joint-resolution/34
