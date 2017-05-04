@@ -6,6 +6,14 @@
 #   comstock_vote: "Yes"
 #   comstock_url:
 
+- date: May 2
+  bill: Allowing employers to offer employees time off instead of pay for overtime work 
+  bill_url: https://www.congress.gov/bill/115/house-bill/1180
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/05/02/hr-1180-%E2%80%93-working-families-flexibility-act-2017-rep-roby-r-al-and-17
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/244
+  
 - date: April 28
   bill: Extension of government funding for one week
   bill_url: https://www.congress.gov/bill/115/house-joint-resolution/99
