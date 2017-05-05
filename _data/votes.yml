@@ -7,29 +7,29 @@
 #   comstock_url:
 
 - date: May 4
-  bill: The American Health Care Act of 2017 
+  bill: The American Health Care Act of 2017
   bill_url: https://www.congress.gov/bill/115/house-bill/1628
   trump_position: "Supports"
   trump_url: https://www.whitehouse.gov/the-press-office/2017/03/22/hr-1628-%E2%80%93-american-health-care-act-2017
-  comstock_vote: "Np"
+  comstock_vote: "No"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/256
-  
+
 - date: May 3
-  bill: The 2017 fiscal year appropriations bill 
+  bill: The 2017 fiscal year appropriations bill
   bill_url: https://www.congress.gov/bill/115th-congress/house-bill/244
   trump_position: "Supports"
   trump_url: https://www.whitehouse.gov/the-press-office/2017/05/02/hr-244-%E2%80%94-consolidated-appropriations-act-2017
   comstock_vote: "Yes"
   comstock_url: http://clerk.house.gov/evs/2017/roll249.xml
-  
+
 - date: May 2
-  bill: Allowing employers to offer employees time off instead of pay for overtime work 
+  bill: Allowing employers to offer employees time off instead of pay for overtime work
   bill_url: https://www.congress.gov/bill/115/house-bill/1180
   trump_position: "Supports"
   trump_url: https://www.whitehouse.gov/the-press-office/2017/05/02/hr-1180-%E2%80%93-working-families-flexibility-act-2017-rep-roby-r-al-and-17
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/244
-  
+
 - date: April 28
   bill: Extension of government funding for one week
   bill_url: https://www.congress.gov/bill/115/house-joint-resolution/99
@@ -37,7 +37,7 @@
   trump_url: https://www.whitehouse.gov/the-press-office/2017/04/27/daily-press-briefing-press-secretary-sean-spicer-42
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/236
-  
+
 - date: March 28
   bill: Repeal of an FCC rule barring internet providers from sharing data on customers' activities
   bill_url: https://www.congress.gov/bill/115/senate-joint-resolution/34
@@ -45,7 +45,7 @@
   trump_url: https://www.whitehouse.gov/the-press-office/2017/03/28/statement-administration-policy-sjres-34-%E2%80%93-disapproving-federal
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/202
-  
+
 - date: March 22
   bill: Allowing small businesses to provide insurance through trade and professional associations
   bill_url: https://www.congress.gov/bill/115/house-bill/1101
@@ -53,7 +53,7 @@
   trump_url: https://www.whitehouse.gov/the-press-office/2017/03/21/hr-1101-%E2%80%93-small-business-health-fairness-act-2017
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/186
-  
+
 - date: March 22
   bill: Removing antitrust exemption for insurance providers
   bill_url: https://www.congress.gov/bill/115/house-bill/372
@@ -61,7 +61,7 @@
   trump_url: https://www.whitehouse.gov/the-press-office/2017/03/21/hr-372-competitive-health-insurance-reform-act-2017
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/184
-  
+
 - date: March 16
   bill: Giving the secretary of veterans affairs more flexibility to discipline employees
   bill_url: https://www.congress.gov/bill/115/house-bill/1259
@@ -69,7 +69,7 @@
   trump_url: http://www.foxnews.com/opinion/2017/03/01/va-secretary-david-shulkin-our-plan-to-deliver-greater-accountability-to-americas-veterans.html
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/168
-  
+
 - date: March 8
   bill: Department of Defense Appropriations Act
   bill_url: https://www.congress.gov/bill/115/house-bill/1301
@@ -77,7 +77,7 @@
   trump_url: https://www.whitehouse.gov/the-press-office/2017/03/07/hr-1301-department-defense-appropriations-act-2017
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/136
-  
+
 - date: March 2
   bill: Changes to rulemaking requirements for federal agencies
   bill_url: https://www.congress.gov/bill/115/house-bill/1004
@@ -85,7 +85,7 @@
   trump_url: https://oversight.house.gov/wp-content/uploads/2017/03/HR998-1004-1009-SAP1.pdf
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/126
-  
+
 - date: March 1
   bill: Repeal of a Department of Labor rule regarding records of work-related injuries and illnesses
   bill_url: https://www.congress.gov/bill/115/house-joint-resolution/83
@@ -93,7 +93,7 @@
   trump_url: https://byrne.house.gov/sites/byrne.house.gov/files/HJRes%2083%20SAP.pdf
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/121
-  
+
 - date: March 1
   bill: Requires review of proposed regulations by the Office of Information and Regulatory Affairs
   bill_url: https://www.congress.gov/bill/115/house-bill/1009
@@ -101,7 +101,7 @@
   trump_url: https://oversight.house.gov/wp-content/uploads/2017/03/HR998-1004-1009-SAP1.pdf
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/120
-  
+
 - date: March 1
   bill: Establishment of a commission to review federal regulations
   bill_url: https://www.congress.gov/bill/115/house-bill/998
@@ -109,7 +109,7 @@
   trump_url: https://oversight.house.gov/wp-content/uploads/2017/03/HR998-1004-1009-SAP1.pdf
   comstock_vote: "Yes"
   comstock_url: https://projects.propublica.org/represent/votes/115/house/1/114
-  
+
 - date: Feb. 16
   bill: Repeal of a rule requiring state and local governments to distribute federal funds to qualified health centers even if they perform abortions
   bill_url: https://www.congress.gov/bill/115/house-joint-resolution/43
