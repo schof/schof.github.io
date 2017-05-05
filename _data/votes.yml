@@ -6,6 +6,22 @@
 #   comstock_vote: "Yes"
 #   comstock_url:
 
+- date: May 4
+  bill: The American Health Care Act of 2017 
+  bill_url: https://www.congress.gov/bill/115/house-bill/1628
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/03/22/hr-1628-%E2%80%93-american-health-care-act-2017
+  comstock_vote: "Np"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/256
+  
+- date: May 3
+  bill: The 2017 fiscal year appropriations bill 
+  bill_url: https://www.congress.gov/bill/115th-congress/house-bill/244
+  trump_position: "Supports"
+  trump_url: https://www.whitehouse.gov/the-press-office/2017/05/02/hr-244-%E2%80%94-consolidated-appropriations-act-2017
+  comstock_vote: "Yes"
+  comstock_url: http://clerk.house.gov/evs/2017/roll249.xml
+  
 - date: May 2
   bill: Allowing employers to offer employees time off instead of pay for overtime work 
   bill_url: https://www.congress.gov/bill/115/house-bill/1180
