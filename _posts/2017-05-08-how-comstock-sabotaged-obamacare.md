@@ -2,8 +2,8 @@
 layout: news_post
 title: "Comstock has Sabotaged Obamacare from the Outset"
 date: 2017-05-08 00:00:00 +0000
-description: "How Comstock and the GOP are Responsible for Insurance Market Uncertainty."
-snippet: "How Comstock and the GOP are Responsible for Insurance Market Uncertainty"
+description: "How Comstock and the GOP are responsible for insurance market uncertainty."
+snippet: "How Comstock and the GOP are responsible for insurance market uncertainty."
 image: comstock-and-ryan-pointing.jpg
 ---
 
