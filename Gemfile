@@ -13,6 +13,7 @@ gem 'rack-protection'
 gem 'github-pages'
 gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
+gem 'jekyll-extlinks'
 
 group :development do
   gem 'spidr', '~> 0.6'
