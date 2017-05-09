@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div id="content-wrapper">
+  <div id="content" class='form-letter'>
+    <img src='/images/letterhead.jpg'/>
+    Dear [REDACTED],
+    <br/><br/>
+    {{ content }}
+    <br/><br/>
+    Sincerely,
+    <br/>
+    <img src='/images/signature.png' class='signature'/>
+    <br/>
+    Barbara Comstock
+    <br/>
+    Member of Congress
+  </div>
+</div>
+<hr class="hidden-modern" />
+
+<div id="sidebar-wrapper">
+  <div id="sidebar">
+    {% include sidebar.html %}
+  </div>
+</div>

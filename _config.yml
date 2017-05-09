@@ -32,6 +32,8 @@ gems:
 collections:
   events:
     output: true
+  letters:
+    output: true
 
 locales:
   sitelinks:

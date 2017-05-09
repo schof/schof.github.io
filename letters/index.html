@@ -1,0 +1,13 @@
+---
+layout: page
+title: Barbara Comstock Form Letters
+snippet: "Browse our collection of actual form letters sent by Comstock to constituents"
+description: "Browse our collection of actual form letters sent by Comstock to constituents"
+---
+
+{% for letter in site.letters %}
+<div class='event'>
+  <h2 class='voter-listing'><a href='{{letter.url}}'>{{ letter.subject }}</a></h2> {{letter.date | date_to_string}}
+
+</div>
+{% endfor %}

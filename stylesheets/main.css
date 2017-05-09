@@ -826,3 +826,20 @@ a.rsvp-link {
   border-radius: 6px;
   box-shadow: 0 2px 0 #9b1c16;
 }
+
+div.form-letter {
+  font-family: 'Times New Roman';
+  padding-top: 20px;
+}
+
+div.form-letter a {
+  color: #0000ff;
+}
+
+div.form-letter p {
+  text-indent: 50px;
+}
+
+img.signature {
+  width: 200px;
+}
