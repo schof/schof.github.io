@@ -717,6 +717,10 @@ a.action-link {
   margin-left: -40px;
 }
 
+#resources p {
+  margin-top: -15px;
+}
+
 .source {
   font-size: 10px;
 }
