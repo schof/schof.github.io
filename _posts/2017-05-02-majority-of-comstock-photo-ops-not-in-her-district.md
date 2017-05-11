@@ -7,7 +7,7 @@ snippet: "Comstock claims to be ever present in her district but 58% of her even
 image: comstock-out-of-district-events.jpg
 ---
 
-By now everyone knows that Barbara Comstock is catching a lot of flack for her lack of town halls ([she's never had one.](http://www.loudountimes.com/news/editorial/editorial_hold_the_town_hall432)) Her initial excuse for this was that she prefers smaller meetings, but [she's cancelled](https://dumpcomstock.com/comstock-blows-off-constituent-meeting/) one of the few such meetings that she did manage to schedule, and she's been [caught on tape](https://www.youtube.com/watch?v=65AKfqbjnik) on [multiple occasions](https://www.youtube.com/watch?v=eijY0Oi5HbU), running from her constituents.
+By now everyone knows that Barbara Comstock is catching a lot of flack for her lack of town halls ([she's never had one.](http://www.loudountimes.com/news/editorial/editorial_hold_the_town_hall432)) Her initial excuse for this was that she prefers smaller meetings, but [she's cancelled](/comstock-blows-off-constituent-meeting/) one of the few such meetings that she did manage to schedule, and she's been [caught on tape](https://www.youtube.com/watch?v=65AKfqbjnik) on [multiple occasions](https://www.youtube.com/watch?v=eijY0Oi5HbU), running from her constituents.
 
 In a recent interview Barbara Comstock defended her lack of town halls and recent absence from her district by [proclaiming](http://www.loudountimes.com/news/article/an_interview_with_the_congrsswoman_rep._comstock_returns432) that "I am ever present in my district." If you look at the public record, this turns out to be a bit of an exaggeration.
 
@@ -30,7 +30,7 @@ Nobody has a problem with Comstock doing unannounced events. It's normal for rep
 
 Here is the problem with Comstock's events:
 
-* She gives the false impression that they are taking place in her district (even Whitbeck [fell for this once](https://dumpcomstock.com/gop-chairman-thinks-comstock-is-plenty-accessible/))
+* She gives the false impression that they are taking place in her district (even Whitbeck [fell for this once](/gop-chairman-thinks-comstock-is-plenty-accessible/))
 * Most of the events are not free and accessible to the general public - even if they were to be announced
 * Comstock is the one claiming these unannounced private events are a substitute for public town halls.
 

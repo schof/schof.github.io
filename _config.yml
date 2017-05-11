@@ -21,9 +21,13 @@ exclude:
 
 url: https://dumpcomstock.com
 
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-extlinks
 
 collections:
   events:

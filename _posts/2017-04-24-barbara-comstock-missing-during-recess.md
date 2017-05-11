@@ -9,9 +9,9 @@ image: comstock-pyramid.jpg
 
 Congress is just finishing a two week recess - the stated purpose of which is to give members time to return to their districts and meet with constituents. The traditional method for doing this is to hold a public town hall, but we all know [how Comstock feels about those](/comstock-has-never-held-a-town-hall/).
 
-There was no chance for constituents to talk with her during the first week of recess since she was on a [taxpayer funded religious pilgrimage](https://dumpcomstock.com/comstock-wasting-taxpayer-money-in-egypt/). That left just one week to cram in a bunch of meaningless photo ops to make it look like she was doing her job. It turns out she couldn't even pull that off!
+There was no chance for constituents to talk with her during the first week of recess since she was on a [taxpayer funded religious pilgrimage](/comstock-wasting-taxpayer-money-in-egypt/). That left just one week to cram in a bunch of meaningless photo ops to make it look like she was doing her job. It turns out she couldn't even pull that off!
 
-Comstock, who has on multiple occasions bragged that she is ["ever present in the district"](http://www.loudountimes.com/news/article/an_interview_with_the_congrsswoman_rep._comstock_returns432), made zero public appearances in her district during the entire two week recess. We've become accustomed to unannounced tours of private companies and cultural events that [turn out to be not in her district](https://dumpcomstock.com/gop-chairman-thinks-comstock-is-plenty-accessible/). But this week, we didn't even get that.
+Comstock, who has on multiple occasions bragged that she is ["ever present in the district"](http://www.loudountimes.com/news/article/an_interview_with_the_congrsswoman_rep._comstock_returns432), made zero public appearances in her district during the entire two week recess. We've become accustomed to unannounced tours of private companies and cultural events that [turn out to be not in her district](/gop-chairman-thinks-comstock-is-plenty-accessible/). But this week, we didn't even get that.
 
 Other than some inappropriate and [overly religious tweets](https://twitter.com/RepComstock/status/852962654541033473), the only thing we heard from Comstock last week was that she visited with school children in her office.
 

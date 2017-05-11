@@ -15,7 +15,7 @@ As the [pressure has mounted](http://www.ibtimes.co.uk/virginia-residents-have-m
 
 Her deputy chief of staff has [repeated the "ever present" claim](http://www.politico.com/story/2017/03/barbara-comstock-2018-seat-health-care-bill-236537) and cited the "nearly 50 events" she has attended.
 
-Earlier this month we looked at one of the events specifically cited by GOP Chairman John Whitbeck, as proof Comstock was not hiding from her constituents. Sadly it turned out that the event in question was actually a [paid fundraiser outside her district](https://dumpcomstock.com/gop-chairman-thinks-comstock-is-plenty-accessible/).
+Earlier this month we looked at one of the events specifically cited by GOP Chairman John Whitbeck, as proof Comstock was not hiding from her constituents. Sadly it turned out that the event in question was actually a [paid fundraiser outside her district](/gop-chairman-thinks-comstock-is-plenty-accessible/).
 
 The Dump Comstock investigative team has uncovered new video of another one of these events. Comstock wants everyone to believe that all of these photo ops are taking place in her district. Once again, however, she's been caught deceiving her constituents. As you will see in this video, most of the people in Barbara Comstock's photo ops do not have the faintest clue who she is or where her district is even located.
 

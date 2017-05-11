@@ -1,0 +1,12 @@
+---
+layout: page
+title: Newsletter Archive
+snippet: "Full archive of all Dump Comstock newsletters"
+description: "Full archive of all Dump Comstock newsletters"
+---
+
+{% for newsletter in site.data.newsletters %}
+<ul>
+  <li><a href='{{newsletter.url}}'>{{newsletter.date}}</a></li>
+</ul>
+{% endfor %}
