@@ -13,5 +13,5 @@ end: 12:00 PM
 address: 21060 Whitfield Drive, Sterling, VA 20165
 date: 2017-05-07
 actionslug: voter-outreach-and-education
-active: true
+active: false
 ---
