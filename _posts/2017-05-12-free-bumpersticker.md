@@ -21,4 +21,4 @@ We'll send you one now at no cost. You just need to send a Self-Addressed Stampe
 
 Make sure to use a business envelope since the stickers are 7.5" long which is just a bit too large for a standard size envelope.
 
-**If all of this sounds like too much of a hassle, you can [donate $1.00](https://secure.actblue.com/contribute/page/dumpcomstock-sticker) and we'll send one directly to you.**
+**If all of this sounds like too much of a hassle, you can [donate $1](https://secure.actblue.com/contribute/page/dumpcomstock-sticker) and we'll send one directly to you.**
