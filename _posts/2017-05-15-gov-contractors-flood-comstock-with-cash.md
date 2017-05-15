@@ -2,8 +2,8 @@
 layout: news_post
 title: "Gov. Contractors Flood Comstock with Cash (while she begs for more)"
 date: 2017-05-12 00:00:00 +0000
-description: ""
-snippet: ""
+description: "Rep. Barbara Comstock has been wildly successful in extracting cash from government contractors since the 2014 election."
+snippet: "Rep. Barbara Comstock has been wildly successful in extracting cash from government contractors since the 2014 election."
 image: comstock-cash.jpg
 ---
 
