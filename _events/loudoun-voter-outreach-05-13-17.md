@@ -13,5 +13,5 @@ end: 1:00 PM
 address: 43800 Central Station Drive, Ashburn, VA 20147
 date: 2017-05-13
 actionslug: voter-outreach-ashburn-va
-active: true
+active: false
 ---
