@@ -27,7 +27,10 @@ navbar-links:
     - What is ADD?: 'what-is-add'
     - Types of ADD: 'types'
     - Symptoms: 'symptoms'
-    - Populations: 'populations'
+    - Children: 'children'
+    - Adolescents: 'adolescents'
+    - Adults: 'adults'
+    - Girls & Women: 'girls-and-women'
     - Treatment Options: 'treatment'
   Services:
     - Testing: 'testing'
