@@ -23,12 +23,14 @@ description: Rochester's Leading ADD Expert
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Resources:
     - What is ADD?: 'what-is-add'
     - Types of ADD: 'types'
     - Symptoms: 'symptoms'
     - Populations: 'populations'
+    - Treatment Options: 'treatment'
+  Services:
+    - Testing: 'testing'
   Dr Schofield:
     - About Me: 'drschofield'
     - My Philosophy: 'philosophy'
