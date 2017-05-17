@@ -4,7 +4,7 @@ title: "Local News Calls Out Comstock for Zero Town Halls [VIDEO]"
 date: 2017-05-17 00:00:00 +0000
 description: "Fox 5 News Calls Out Comstock on Her Refusal to Hold a Town Hall."
 snippet: "Fox 5 News Calls Out Comstock on Her Refusal to Hold a Town Hall."
-image:
+image: fox-five-protest.jpg
 ---
 
 Residents from Comstock's district gathered in Washington, D.C. yesterday to protest outside a fundraiser that Comstock was attending. Barbara Comstock has [never held a town hall](http://www.loudountimes.com/news/editorial/editorial_hold_the_town_hall432) and her constituents even recently [put up a billboard](https://www.youtube.com/watch?v=yv4nSWHmQuA) to call her out on it.
