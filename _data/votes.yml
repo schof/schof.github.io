@@ -6,6 +6,14 @@
 #   comstock_vote: "Yes"
 #   comstock_url:
 
+- date: May 18
+  bill: Making it easier to seek the death penalty for killing or attempting to kill first responders
+  bill_url: https://www.congress.gov/bill/115/house-bill/115
+  trump_position: "Supports"
+  trump_url: http://dailycaller.com/2015/12/10/trump-ill-use-an-executive-order-to-give-all-cop-killers-the-death-penalty/
+  comstock_vote: "Yes"
+  comstock_url: https://projects.propublica.org/represent/votes/115/house/1/265
+
 - date: May 4
   bill: The American Health Care Act of 2017
   bill_url: https://www.congress.gov/bill/115/house-bill/1628
