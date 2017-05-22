@@ -15,5 +15,5 @@ address: 1659 Chain Bridge Road, McLean, Va. 22101
 date: 2017-05-20
 actionslug: voter-outreach-mclean-va-2
 map: https://goo.gl/maps/PdRLPbAxshw
-active: true
+active: false
 ---
