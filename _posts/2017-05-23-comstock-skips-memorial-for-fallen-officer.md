@@ -11,7 +11,7 @@ Last week was Police Week - a time when the nation's police officers gather in W
 
 The only problem was this memorial service was going to be in Winchester, and we all know how Comstock feels about [traveling all the way out to Winchester](/majority-of-comstock-photo-ops-not-in-her-district/). Unless there's a parade or a fundraiser involved you won't find her there!
 
-According to [news reports](http://www.your4state.com/news/virginia/fallen-winchester-police-officer-honored-by-congresswoman-comstocks-office/714339855) Comstock's office canceled her appearance at the event and sent a staffer instead. We were immediately suspicious whenever Comstock cancels something and we noticed this little tidbit in the article:
+According to [news reports](http://www.your4state.com/news/virginia/fallen-winchester-police-officer-honored-by-congresswoman-comstocks-office/714339855) Comstock's office canceled her appearance at the event and sent a staffer instead. We are immediately suspicious whenever Comstock cancels something and we noticed this little tidbit in the article:
 
 > Comstock was unable to attend the ceremony due to an emergency.
 
