@@ -1,7 +1,7 @@
 ---
 layout: news_post
 title: "Comstock Fakes an Emergency and Skips Memorial for Fallen Officer"
-date: 2017-05-18 00:00:00 +0000
+date: 2017-05-24 00:00:00 +0000
 description: "Comstock had an urgent photo op emergency that required her not to drive all the way out to Winchester."
 snippet: "Comstock had an urgent photo op emergency that required her not to drive all the way out to Winchester."
 image: fallen-officer.jpg
@@ -27,4 +27,4 @@ Whatever the emergency was it sure wasn't going to stop her from yet another pho
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Joined the 2017 Loudoun County Economic Development Business Week Conference yesterday as part of Loudoun County’s Small Business week <a href="https://twitter.com/hashtag/VA10?src=hash">#VA10</a> <a href="https://t.co/GbbijZWhYw">pic.twitter.com/GbbijZWhYw</a></p>&mdash; Barbara Comstock (@RepComstock) <a href="https://twitter.com/RepComstock/status/864441796318957569">May 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This isn't the first time Comstock has been busted cancelling a [scheduled appearance](https://twitter.com/dumpcomstock/status/861997973038923776) or a [constituent meeting](http://localhost:4000/comstock-blows-off-constituent-meeting/). We know that you hate driving all the way out to Winchester but after next November you can relax inside the beltway all you want.
+This isn't the first time Comstock has been busted cancelling a [scheduled appearance](https://twitter.com/dumpcomstock/status/861997973038923776) or a [constituent meeting](http://localhost:4000/comstock-blows-off-constituent-meeting/). We know that you hate driving all the way out to Winchester but don't worry - after next November you can relax inside the beltway all you want.
