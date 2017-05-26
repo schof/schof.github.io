@@ -840,6 +840,14 @@ div.form-letter p {
   text-indent: 40px;
 }
 
+div.form-letter blockquote p{
+  padding-left: 40px;
+  padding-right: 40px;
+  text-indent: 0px;
+  font-size: 16px;
+  color: #111;
+}
+
 img.signature {
   width: 200px;
 }

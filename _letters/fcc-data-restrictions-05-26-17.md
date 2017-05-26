@@ -1,0 +1,15 @@
+---
+layout: form_letter
+subject: FCC Data Restrictions
+date: 2017-05-26
+---
+
+Thank you for contacting me about recent votes using the Congressional Review Act.  I appreciate you taking the time to share your views with me.  It is important to note at the outset that I have a strong record in support of individual privacy rights, and that **recent passage of the resolution to halt the previous administration’s proposed FCC rule does not change a single privacy-protection consumers currently enjoy.**
+
+On October 27, 2016, the Federal Communications Commission (FCC) issued a proposed rule that seeks to expand its regulatory jurisdiction, create a two-tiered privacy regime for different types of Internet companies, and impose data restrictions on Internet service providers.  These types of regulations have traditionally been under the jurisdiction of the Federal Trade Commission (FTC), which already has in place a regulatory regime to protect consumers.  Full implementation of this proposed rule would have, among other things, given consumers a false sense of protection and privacy.  As a __bipartisan__ group of representatives stated in a 2016 letter to the FCC in response to its notice of proposed rulemaking:
+
+> “We had hoped the FCC would focus on those protections that have traditionally guarded consumers from unfair or deceptive data practices by ISPs and the other companies in the Internet services market.  But, based on the [FCC’s] Notice of Proposed Rulemaking, we remain increasingly concerned that the Commission intends to go well beyond such a framework and ill-serve consumers who seek and expect consistency in how their personal data is protected.  If different rules apply to the online practices of only selected entities, consumers may wrongly assume that the new rules apply to all of their activities in the Internet.  But when they discover otherwise, the inconsistent treatment of consumer data could actually undermine consumers’ confidence in their use of the Internet due to uncertainty regarding the protections that apply to their online activities.”
+
+In response to these actions, the House and Senate introduced legislation in March to disapprove of this proposed FCC rule.  The House version of this legislation, H.J.Res.86, was introduced by Rep. Marsha Blackburn (R – TN) on March 8, 2017.  The measure seeks to block the proposed FCC rule.  On March 28, 2017, the House passed the Senate version, S.J.Res.34, with my support, and the measure now heads to the president’s desk for signature.  Again, it must be noted that recent actions in Congress have not changed the status quo in terms of privacy-protection standards for consumers.
+
+Thank you again for contacting me.  It is a privilege to serve you in the Tenth District.  I may also be contacted at my Sterling office at [703-404-6903](tel:703-404-6903), or my Washington, D.C. office at [202-225-5136](tel:202-225-5136).  By visiting [http://comstock.house.gov](http://comstock.house.gov), you can sign up to receive my email newsletters and follow my efforts to serve you.  If I may ever be of service, please do not hesitate to contact me.
