@@ -22,9 +22,7 @@ The Loudoun GOP, however, refused to be silent in the face of this brazen act.
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/dumpcomstock">@dumpcomstock</a> <a href="https://twitter.com/LoudounGOP">@LoudounGOP</a> <a href="https://twitter.com/BarbaraComstock">@BarbaraComstock</a> Seemed like a lot of people were ticked off by the rudeness of your people, including activists waving signs while kids were racing.</p>&mdash; Will Estrada (@Will_Estrada) <a href="https://twitter.com/Will_Estrada/status/868545013545930754">May 27, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-We have video of executive chairman, Anthony Defazio, asking his brother to get him the phone number for the May Fest officials. He did this within seconds of seeing us - before anybody held up a single sign. Nobody was bothered by this except for Comstock and the Loudoun GOP officials.
-
-As you can see in this video below, Estrada is wildly exaggerating, and the egg race went off without a hitch.
+As you can see in this video below, Estrada is wildly exaggerating, and the egg race went off without a hitch. Nobody was bothered by this except for Comstock and the Loudoun GOP officials.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ljKU6E0ET44" frameborder="0" allowfullscreen></iframe>
 
