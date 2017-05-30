@@ -7,11 +7,11 @@ snippet: "The Loudoun GOP is crying that we ruined their safe space for Comstock
 image: photo-bomb.jpg
 ---
 
-Dump Comstock was at the Lovettsville May Fest on Saturday, where we met with voters and handed out Dump Comstock [bumper stickers](/free-bumpersticker/). In past elections Comstock has done well in this part of Loudoun County, but we are committed to taking her on in every corner of the district. The Dump Comstock booth was certainly very popular, and we seemed to be have attracted more people than the neighboring Ed Gillespie tent did.
+Dump Comstock was at the Lovettsville May Fest on Saturday, where we met with voters and handed out Dump Comstock [bumper stickers](/free-bumpersticker/). In past elections Comstock has done well in this part of Loudoun County, but we are committed to taking her on in every corner of the district. The Dump Comstock booth was certainly very popular, and we seemed to have attracted more people than the neighboring Ed Gillespie tent did.
 
 As luck would have it, Barbara Comstock also turned up. Since she ran away from us the [first](https://www.youtube.com/watch?v=eijY0Oi5HbU) and [second time](https://www.youtube.com/watch?v=65AKfqbjnik) we tried to talk with her, we figured we would try again. Comstock did her best to avoid us, but we managed to talk to her.
 
-While talking to her, we were rudely interrupted by a Comstock supporter who hijacked the conversation, and thus enabled Comstock to scamper off. She then immediately walked over to the M.C. and asked him to immediately start the egg race. The perfect excuse to not to talk with us further.
+While talking to her, we were rudely interrupted by a Comstock supporter who hijacked the conversation, and thus enabled Comstock to scamper off. She then immediately walked over to the M.C. and asked him to start the egg race. The perfect excuse to not to talk with us further!
 
 While waiting for Comstock to finish her "official duties:", we held up a few Dump Comstock signs in silent protest.
 
