@@ -1,7 +1,7 @@
 ---
 layout: form_letter
 subject: FCC Data Restrictions
-date: 2017-05-26
+date: 2017-04-03
 ---
 
 Thank you for contacting me about recent votes using the Congressional Review Act.  I appreciate you taking the time to share your views with me.  It is important to note at the outset that I have a strong record in support of individual privacy rights, and that **recent passage of the resolution to halt the previous administration’s proposed FCC rule does not change a single privacy-protection consumers currently enjoy.**

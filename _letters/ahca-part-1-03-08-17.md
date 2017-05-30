@@ -1,7 +1,7 @@
 ---
 layout: form_letter
 subject: AHCA (Round 1)
-date: 2017-05-26
+date: 2017-03-08
 ---
 
 Thank you for contacting me with your opinion on the American Health Care Act.  I appreciate you taking the time to share your views and comments with me.  In case you have not had the opportunity to review the legislation in full, you may do so by clicking [HERE](http://comstock.house.gov/sites/comstock.house.gov/files/AmericanHealthCareAct.pdf).  I look forward to keeping you informed as both the House Committee on Ways and Means and House Committee on Energy and Commerce hold public hearings where amendments will be offered and considered.
