@@ -15,5 +15,5 @@ address: Town Green, Spring Farm Drive, Lovettsville, Va. 20180
 date: 2017-05-27
 actionslug: voter-outreach-lovettsville
 map: https://goo.gl/maps/ovuhrPg5pA32
-active: true
+active: false
 ---

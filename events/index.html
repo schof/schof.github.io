@@ -37,6 +37,10 @@ image: dumpcomstock-manassas.jpg
       <div class='event-info'>{{ event.action }}</div>
     </div>
   </span>
-  <a href='{{event.url}}' class='rsvp-link'>RSVP</a>
+  {% if event.actionslug %}
+    <a href='{{event.url}}' class='rsvp-link'>RSVP</a>
+  {% else %}
+    <a href='{{event.external_url}}' class='rsvp-link'>RSVP</a>
+  {% endif %}
 </div>
 {% endfor %}
