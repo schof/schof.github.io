@@ -13,7 +13,7 @@ As luck would have it, Barbara Comstock also turned up. Since she ran away from 
 
 While talking to her, we were rudely interrupted by a Comstock supporter who hijacked the conversation, and thus enabled Comstock to scamper off. She then immediately walked over to the M.C. and asked him to start the egg race. The perfect excuse to not to talk with us further!
 
-While waiting for Comstock to finish her "official duties:", we held up a few Dump Comstock signs in silent protest.
+While waiting for Comstock to finish her "official duties", we held up a few Dump Comstock signs in silent protest.
 
 ![Image of Comstock photo bomb](/images/news/photo-bomb-2.jpg)
 
