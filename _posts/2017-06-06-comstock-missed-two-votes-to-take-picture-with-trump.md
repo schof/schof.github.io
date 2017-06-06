@@ -2,8 +2,8 @@
 layout: news_post
 title: "Comstock Missed Two Votes to Take a Picture with Trump"
 date: 2017-06-06 00:00:00 +0000
-description: "Comstock missed two votes in order to get her picture taken with a man she previously called \"vile.\""
-snippet: "Comstock missed two votes in order to get her picture taken with a man she previously called \"vile.\""
+description: "Comstock missed two votes in order to get her picture taken with a man she called vile and disgusting."
+snippet: "Comstock missed two votes in order to get her picture taken with a man she called vile and disgusting."
 image: trump-photo-op.png
 ---
 
