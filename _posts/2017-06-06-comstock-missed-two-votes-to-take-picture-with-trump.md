@@ -15,4 +15,4 @@ The major bill signed that day was actually a piece of legislation that [killed 
 
 Thus the Queen of Photo Ops was summoned to the White House for an appearance with a man she said she despised only 141 days earlier. Comstock then allowed herself to be used as a prop along with [the few women Trump could find](https://www.whitehouse.gov/the-press-office/2017/02/28/remarks-president-trump-signing-hr-321-and-hr-255) who lacked even the slightest amount of self-respect.
 
-So Comstock skipped out her job responsibilities to get her picture taken with a sexual predator in order to advance her own career. This should make an excellent case study for her [Women's Leadership Program](https://comstock.house.gov/media-center/in-the-news/mclean-patch-young-women-leadership-program-accepting-applications).
+So Comstock skipped out her job responsibilities to get her picture taken with a sexual predator and advance her own career. This should make an excellent case study for her [Women's Leadership Program](https://comstock.house.gov/media-center/in-the-news/mclean-patch-young-women-leadership-program-accepting-applications).
