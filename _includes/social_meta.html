@@ -7,10 +7,15 @@
 <meta name="twitter:card" content="summary_large_image"/>
 
 {% if page.location %}
-  <meta property='og:image' content='{{site.url}}/images/events/{{page.social-image}}'/>
   <meta property='og:description' content="{{page.description}}"/>
-  <meta name="twitter:image" content="{{site.url}}/images/events/{{page.social-image}}"/>
   <meta name="twitter:description" content="{{page.description}}"/>
+  {% if page.image %}
+  <meta property='og:image' content='{{site.url}}/images/events/{{page.image}}'/>
+  <meta name="twitter:image" content="{{site.url}}/images/events/{{page.image}}"/>
+  {% else %}
+  <meta property='og:image' content='{{site.url}}/images/events/generic-event.png'/>
+  <meta name="twitter:image" content="{{site.url}}/images/events/generic-event.png"/>
+  {% endif %}
 {% elsif page.snippet %}
   <meta property='og:image' content='{{site.url}}/images/news/{{page.image}}'/>
   <meta property='og:description' content="{{page.snippet}}"/>

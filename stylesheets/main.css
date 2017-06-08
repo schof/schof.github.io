@@ -851,3 +851,7 @@ div.form-letter blockquote p{
 img.signature {
   width: 200px;
 }
+
+img#event-img {
+  padding-top: 20px;
+}

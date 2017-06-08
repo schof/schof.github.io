@@ -5,6 +5,10 @@ layout: default
 <div id="content-wrapper">
   <div id="content" class='event-post'>
 
+    {% if page.image != null %}
+      <img id='event-img' src='/images/events/{{ page.image }}' alt='{{ page.description }}'/>
+    {% endif %}
+
     {% if page.actionslug %}
       <link href='https://actionnetwork.org/css/style-embed.css' rel='stylesheet' type='text/css' />
       {% if page.form %}

@@ -2,8 +2,7 @@
 layout: event_post
 title: Dump Comstock Tour Kickoff (McLean)
 location: TBD - McLean, VA
-social-image:
-image: generic-event.png
+image: kickoff-tour.jpg
 description: We will be protesting with Dump Comstock signs in a high visibility area. Come on out before work and see the new mobile billboard and be part of our media event.
 action: We will be protesting with Dump Comstock signs in a high visibility area. Come on out before work and see the new mobile billboard and be part of our media event.
 day-of-week: Thursday

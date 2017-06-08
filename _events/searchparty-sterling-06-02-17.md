@@ -16,5 +16,5 @@ date: 2017-06-02
 actionslug:
 map: https://goo.gl/maps/TADPs1heW1C2
 external_url: https://www.facebook.com/events/300527093723377
-active: true
+active: false
 ---
