@@ -36,7 +36,7 @@ navbar-links:
   Services:
     - Testing: 'testing'
   Dr Schofield:
-    - About Me: 'drschofield'
+    - About Me: 'dr-schofield'
     - My Philosophy: 'philosophy'
     - Contact: 'contact'
   FAQ: 'faq'

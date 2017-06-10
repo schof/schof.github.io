@@ -685,3 +685,9 @@ div.disclaimer {
   padding-top: 20px;
   font-size: 10px;
 }
+
+p.bio img {
+  float: left;
+  padding-right: 25px;
+  padding-bottom: 20px;
+}
