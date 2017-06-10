@@ -38,6 +38,8 @@ navbar-links:
   Dr Schofield:
     - About Me: 'dr-schofield'
     - My Philosophy: 'philosophy'
+    - Qualifications: 'qualifications'
+    - My Book: 'book'
     - Contact: 'contact'
   FAQ: 'faq'
 
