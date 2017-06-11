@@ -3,10 +3,10 @@ layout: faq
 title: Thanks for Registering
 ---
 
-## No Experience Necessary
+![Dump Comstock logo](/images/events/generic-event.jpg)
 
-Thank you for signing up for the event. Most of our volunteers have no prior political experience so if you're new to this you're not alone.
+Thank you for signing up for the event. You should receive a confirmation email with the details shortly.
 
-## Next Steps
+Most of our volunteers have no prior political experience so if you're new to this, you're not alone. We'll have everything organized for you when you arrive.
 
-Your team leader will be sending you an email with additional details a few days before the event. We can't wait to see you out in the field!
+**We will send you an additional reminder email the night before the event.**
