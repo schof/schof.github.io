@@ -48,7 +48,7 @@ title: Qualifications
 * Strong Memorial Hospital
 * FF Thompson Hospital
 * Clifton Springs Hospital and Clinic
-* Assistant Professor of Psychology, Dept. of Psychiatry, University of Rochester Medical School
+* Clinical Assistant Professor of Psychology, Dept. of Psychiatry, University of Rochester Medical School
 
 **Additional credentials include:**
 
