@@ -691,3 +691,7 @@ p.bio img {
   padding-right: 25px;
   padding-bottom: 20px;
 }
+
+.clear {
+  clear: both;
+}
