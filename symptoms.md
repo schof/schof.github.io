@@ -36,6 +36,8 @@ Untreated or minimally treated hyperactive ADD can also result in behavioral pro
 * Later health issues, such as GI complaints
 * Anxiety and depression
 
+[Learn more about hyperactive treatment options](/treatment)
+
 ## Inattentive (Non-hyperactive) Symptoms
 
 Inattentive ADD is often characterized by ...
@@ -64,3 +66,5 @@ Untreated or minimally treated non-hyperactive ADD can also result in problems t
 * Underemployment for intelligence and skills
 * Relationship issues, lack of communication, dependence
 * Depression
+
+[Learn more about inattentive treatment options](/treatment#inattentive-add)

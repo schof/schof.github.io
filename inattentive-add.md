@@ -9,4 +9,4 @@ Because of this faulty or partial filing of incoming information, they often str
 
 They often are quiet and don't bother others. They often slip by under the radar for years allowing others to miss or minimize the ADD. Others may take over their work to help out or get things done quickly which encourages them to become more dependent.
 
-Learn more about [Inattentive ADD Symptoms](/symptoms).
+Learn more about [Inattentive ADD Symptoms](/symptoms#inattentive-non-hyperactive-symptoms).
