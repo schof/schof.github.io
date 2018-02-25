@@ -33,8 +33,12 @@ navbar-links:
     - Adults: 'adults'
     - Girls & Women: 'girls-and-women'
     - Treatment Options: 'treatment'
-  Services:
-    - Testing: 'testing'
+  Testing:
+    - Why Test?: 'why-test-for-add'
+    - The Test: 'the-test'
+    - Process: 'what-to-expect'
+    - Get Tested: 'contact'
+    - Misconceptions: 'misconceptions'
   Dr Schofield:
     - About Me: 'dr-schofield'
     - My Philosophy: 'philosophy'
