@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+redirect_from: '/contact_dr.html'
 ---
 
 ![Cross Keys Office Park](/img/crosskeys.jpg)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What to Expect
+redirect_from: '/expect.html'
 ---
 
 Testing consists of two in person visits to my office. In the first session I will conduct a patient interview and then conduct the testing. There will then be a follow up session where I will go over the results and make additional recommendations.

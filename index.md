@@ -3,6 +3,7 @@ layout: page
 title: ADD Expert
 subtitle: Everything you need to know about ADD & ADHD
 use-site-title: true
+redirect_from: '/services.html'
 ---
 
 ## Read my New Book

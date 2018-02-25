@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Treatment
+redirect_from: '/add_treatment.html'
 ---
 
 ## Hyperactive ADD

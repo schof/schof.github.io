@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Symptoms
+redirect_from: '/add_symptoms.html'
 ---
 
 ## Hyperactive Symptoms

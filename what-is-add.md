@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is ADD?
-#subtitle: Frequently asked questions about ADD
+redirect_from: '/add_types.html'
 ---
 Describing ADD is like trying to define love! Everyone knows it when they see it, but it's hard to describe. Attention is a critical human function from infancy to our final days. We can't learn, function or survive without it.
 

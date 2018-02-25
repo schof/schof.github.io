@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Why Test for ADD?
+redirect_from: '/add_testing.html'
 ---
 
 Most insurance companies do not pay for testing services. It is cheaper for them to rely on patient and parent interviews as well as behavior rating scales. If the symptoms and behaviors fit the diagnosis of ADD, it must be ADD.

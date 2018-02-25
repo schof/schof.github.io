@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+redirect_from: "/meet_dr.html"
 ---
 
 ![Dr. Lee Schofield](/img/dr-schofield.jpg)

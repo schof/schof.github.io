@@ -47,6 +47,9 @@ navbar-links:
     - Contact: 'contact'
   FAQ: 'faq'
 
+plugins:
+  - jekyll-redirect-from
+
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 #avatar: "/img/add-rescue.png"
@@ -190,9 +193,5 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-
-gems:
-  - jekyll-paginate
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
