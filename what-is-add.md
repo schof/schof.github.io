@@ -11,6 +11,6 @@ This website is designed to provide some understanding to a complicated and cont
 
 Problem checklists and rating scales provide only a limited amount of information and they are quite subjective, often measuring the level of frustration of the rater rather than the true degree of attention deficit.
 
-Objective data can improve understanding and guide treatment planning.
+Objective testing data can improve understanding and guide treatment planning.
 
 [Get Tested](/testing)

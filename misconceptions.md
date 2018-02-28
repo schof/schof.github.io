@@ -3,7 +3,7 @@ layout: page
 title: Misconceptions
 ---
 
-People often have preconceived ideas about ADD testing. It is important to keep in mind that the goal of ADD testing is to provide objective data to help identify the type and severity of the ADD.
+People often have preconceived ideas about ADD testing. It is important to keep in mind that the goal of ADD testing is to provide objective testing data to help identify the type and severity of the ADD.
 
 Common misconceptions about testing:
 

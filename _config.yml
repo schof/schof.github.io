@@ -23,7 +23,7 @@ description: Rochester's Leading ADD Expert
 
 # List of links in the navigation bar
 navbar-links:
-  Resources:
+  ADD Info:
     - What is ADD?: 'what-is-add'
     - Hyperactive: 'hyperactive-add'
     - Inattentive: 'inattentive-add'

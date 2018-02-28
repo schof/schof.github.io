@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ADD Expert
-subtitle: Everything you need to know about ADD & ADHD
+subtitle: Everything you need to know about ADD & ADDHD
 use-site-title: true
 redirect_from: '/services.html'
 ---
