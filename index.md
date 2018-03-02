@@ -8,7 +8,7 @@ redirect_from: '/services.html'
 
 ## Read my New Book
 
-![Book Cover: ADD Rescue](/img/book-cover.jpg)
+[![Book Cover: ADD Rescue](/img/book-cover.jpg)](https://www.amazon.com/ADD-Rescue-Child-Survive-Thrive/dp/1544124376/)
 {: .bio}
 
 I have a written a new book, [ADD Rescue: Help Your Child Survive and Thrive with ADD](https://www.amazon.com/ADD-Rescue-Child-Survive-Thrive/dp/1544124376/), which empowers children to play a role in the self-management of their ADD.
