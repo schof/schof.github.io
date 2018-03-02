@@ -11,16 +11,22 @@ Testing consists of two in person visits to my office. In the first session I wi
 * Diagnostic interview and history (generally an hour)
 * Brief introductory discussion of the purpose and procedures
 * Plan for breaks and checks on fatigue level at several points
-* Parents generally sit in on testing (children don't mind!)
-* Children find the varied tasks interesting and are often eager to continue
+* A few subtest are often given to reduce anxiety about the tasks
 
 ## Second Session
 
-* Extensive written report is prepared
-* Results are explained in easy to understand language
-* Parents will receive a copy of the report
-* Copies of the report are sent to the primary care provider and others as needed
-* Recommendations are discussed and refined
-* Counseling needs, if any are discussed
-* Arrangements are made to consult with the primary care physician (if needed)
-* Children are generally seen at a separate session to review the report and plan
+* Parents generally sit in on testing (children don't mind!)
+* Children find the varied tasks interesting and are often eager to continue
+* Most of the cognitive abilities subtests are given (with breaks)
+
+## Third Session
+
+* Most of the achievement subtests are administered
+* Breaks are provided as needed
+* Children and adults often share their academic issues between subtests
+
+## Fourth Session
+
+* Parents generally sit in on testing (children don't mind!)
+* Children find the varied tasks interesting and are often eager to continue
+* Most of the cognitive abilities subtests are given (with breaks)
