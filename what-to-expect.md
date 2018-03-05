@@ -27,6 +27,11 @@ Testing consists of two in person visits to my office. In the first session I wi
 
 ## Fourth Session
 
+* A complete, thorough report with data is presented and discussed thoroughly
+* Specific course of treatment is recommended and discussed
+* Specific academic accommodations and support service needs are discussed
+* Children are often present, but it may be appropriate to schedule a separate meeting to review results with your child
+* Report will be sent to your doctor and/or school as needed
 * Parents generally sit in on testing (children don't mind!)
 * Children find the varied tasks interesting and are often eager to continue
 * Most of the cognitive abilities subtests are given (with breaks)

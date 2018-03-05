@@ -13,4 +13,4 @@ Problem checklists and rating scales provide only a limited amount of informatio
 
 Objective testing data can identify specific areas of strengths and weaknesses, as well as academic strengths and weaknesses, to better guide treatment and school accommodations.
 
-[Get Tested](/testing)
+[Get Tested](/contact)
