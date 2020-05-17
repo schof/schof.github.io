@@ -1,33 +1,20 @@
 ---
 layout: page
 title: What to Expect
-redirect_from: '/expect.html'
+redirect_from: "/expect.html"
 ---
 
-Testing consists of two in person visits to my office. In the first session I will conduct a patient interview and then conduct the testing. There will then be a follow up session where I will go over the results and make additional recommendations.
+Appointments generally begin within two weeks. The testing process involves about an hour for the initial consultation. This is followed by 3 - 5 hours of testing over two to three additional sessions, depending on the person’s age, fatigue issues and the amount of testing required.
 
-There are often several breaks in testing sessions to address fatigue issues.  Parents generally sit in on testing; children usually don't mind. Parents find observing very informative.  The tasks are varied and interesting for children and they are often eager to continue.
+The initial consultation hour will focus on
 
-## First Session
+- Thorough patient and family history
+- Academic history, including prior support services at school
+- Previous testing
+- Treatment history, including any previous medication and counseling
 
-* Diagnostic interview and history (generally an hour)
-* Brief introductory discussion of the purpose and procedures
-* Plan for breaks and checks on fatigue level at several points
-* A few subtest are often given to reduce anxiety about the tasks
+When evaluating children, parents are generally present and may observe the
+testing. This is rarely a problem for children. Adolescents sometimes prefer
+private testing sessions. The tests are brief, novel and interesting.
 
-## Second Session
-
-* Most of the cognitive abilities subtests are given (with breaks)
-
-## Third Session
-
-* Achievement subtests are often given
-* Determining current academic skills is very helpful
-* Academic performance may be weak due to ADD issues not academic skill weaknesses
-
-## Final Session
-
-* A complete, thorough report with data is presented and discussed thoroughly
-* Specific course of treatment is recommended and discussed
-* Specific academic accommodations and support service needs are discussed
-* Report will be sent to your doctor and/or school as needed
+After all test data has been gathered and scored, a thorough report is prepared and shared in a final session, usually about a week after the last testing session. Children are also usually given feedback appropriate to their age level. Data will compare the adult or child with others of the same age. It will also include grade equivalent scores. At the last session specific treatment, academic or work recommendations are discussed. The report can also be sent to physicians, counselors and school officials at the parents’ or patient’s request
