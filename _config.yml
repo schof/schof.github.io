@@ -24,28 +24,28 @@ description: Rochester's Leading ADD Expert
 # List of links in the navigation bar
 navbar-links:
   ADD Info:
-    - What is ADD?: 'what-is-add'
-    - Hyperactive: 'hyperactive-add'
-    - Inattentive: 'inattentive-add'
-    - Symptoms: 'symptoms'
-    - Children: 'children'
-    - Adolescents: 'adolescents'
-    - Adults: 'adults'
-    - Girls & Women: 'girls-and-women'
-    - Treatment Options: 'treatment'
+    - What is ADD?: "what-is-add"
+    - Hyperactive: "hyperactive-add"
+    - Inattentive: "inattentive-add"
+    - Symptoms: "symptoms"
+    - Children: "children"
+    - Adolescents: "adolescents"
+    - Adults: "adults"
+    - Girls & Women: "girls-and-women"
+    - Treatment Options: "treatment"
   Testing:
-    - Why Test?: 'why-test-for-add'
-    - The Test: 'the-test'
-    - Process: 'what-to-expect'
-    - Get Tested: 'contact'
-    - Misconceptions: 'misconceptions'
+    - Why Test?: "why-test-for-add"
+    - The Test: "the-test"
+    - Process: "what-to-expect"
+    - Get Tested: "contact"
+    - Misconceptions: "misconceptions"
   Dr Schofield:
-    - About Me: 'dr-schofield'
-    - My Philosophy: 'philosophy'
-    - Qualifications: 'qualifications'
-    - My Book: 'book'
-    - Contact: 'contact'
-  FAQ: 'faq'
+    - About Me: "dr-schofield"
+    - My Philosophy: "philosophy"
+    - Qualifications: "qualifications"
+    - My Book: "book"
+    - Contact: "contact"
+  FAQ: "faq"
 
 plugins:
   - jekyll-redirect-from
@@ -65,7 +65,8 @@ plugins:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Dr. Lee Schofield
-  telephone: 585-425-2480   # eg. +14159998888
+  email: leejschofield@gmail.com
+  telephone: 585-425-2480 # eg. +14159998888
   amazon: https://www.amazon.com/ADD-Rescue-Child-Survive-Thrive/dp/1544124376/
 
 # Select which share links to show in posts
@@ -77,7 +78,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ADDExpert.net"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ADDExpert.net" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -114,16 +115,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -145,8 +144,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - 404.html
     - LICENSE

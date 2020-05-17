@@ -3,7 +3,7 @@ layout: page
 title: ADD Expert
 subtitle: Everything you need to know about ADD & ADDHD
 use-site-title: true
-redirect_from: '/services.html'
+redirect_from: "/services.html"
 ---
 
 ## Read my New Book
@@ -19,6 +19,6 @@ I have a written a new book, [ADD Rescue: Help Your Child Survive and Thrive wit
 
 ## ADD Testing
 
-Do you want to know for sure if you have ADD? I am licensed psychologist serving the Rochester, NY area and have over forty years of experiencing diagnosing both children and adults.
+Do you want to know for sure if you have ADD? I am licensed psychologist serving the Rochester, NY area. I also provide testing services online for the entire state of New York. I have over forty years of experience diagnosing both children and adults.
 
 {% include schedule-appointment.html %}

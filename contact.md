@@ -7,7 +7,7 @@ redirect_from: "/contact_dr.html"
 ![Cross Keys Office Park](/img/crosskeys.jpg)
 {: .bio}
 
-If you wish to schedule an appointment you may email me at [leejschofield@gmail.com](mailto:leejschofield@gmail.com) or call my office at [(585)425-2480](tel:585-425-2480).
+If you wish to schedule an appointment you may email me at [{{ site.author.email }}](mailto:{{ site.author.email }}) or call my office at [{{ site.author.telephone }}](tel:{{ site.author.telephone }}).
 
 My office is located at [645 CrossKeys Office Park - Fairport, NY 14450](https://goo.gl/maps/acVtYgGJg672).
 
